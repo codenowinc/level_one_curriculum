@@ -6,6 +6,7 @@ This repository is a central location for all the resources needed to teach Leve
 In this README, you will find a table of contents linking to a series of guides and the sample front-end and Rails projects. These guides and projects serve as resources to help you prepare for teaching your students during the program. They also outline the lesson plan for the workshop itself.
 
 ## Table of Contents
+### Day One
 * **Account Setup**
   * Create your GitHub Account
   * Create your Cloud9 Account
