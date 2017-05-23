@@ -1,5 +1,7 @@
 # Examples of successful companies and the problems that started them
 
+### ***[Keynote](https://www.dropbox.com/s/td9rajjf7yr5tj7/01%20-%20P1%20Keynote%20-%20Solve%20a%20Problem%20You%20Care%20About.key?dl=0 "Solve a problem you care about - Keynote") | [PowerPoint](https://www.dropbox.com/s/mijxpulvt0c4cng/01%20-%20P1%20PowerPoint%20-%20Solve%20a%20Problem%20You%20Care%20About.pptx?dl=0 "Solve a problem you care about - PowePoint")***
+
 Ideas for great products don't just drop out of the sky. There aren't a few people who are predestined to come up with brilliant solutions that turn into massive companies. But there are people who have learned to identify the problems in their life as opportunities. Opportunities to make their lives better, and the lives of all the other people around them facing a similar problem.
 
 How many of you have heard of Airbnb? What about Uber?
