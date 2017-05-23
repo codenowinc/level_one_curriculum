@@ -10,7 +10,7 @@ In this README, you will find a table of contents linking to a series of guides 
 * **How to Find a Meaningful Problem to Solve**
   * [Solve a problem you care about](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/solve_a_problem_you_care_about.md "Solve a problem you care about")
   * [Examples of successful companies and the problems that started them](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/examples_of_companies_and_the_problems_that_started_them.md "Examples of successful companies and the problems that started them")
-  * Marshmallow challenge activity
+  * [Marshmallow challenge activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/marshmallow_challenge_activity.md "Marshmallow Challenge Activity")
 
 * **The Problem We'll Be Solving During the Workshop**
   * A problem worth solving
