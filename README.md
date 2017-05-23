@@ -17,8 +17,8 @@ In this README, you will find a table of contents linking to a series of guides 
   * Peer interviews activity
 
 * **Brainstorm the Features**
- * All the possible features
- * Country map and feature rank activity
+  * All the possible features
+  * Country map and feature rank activity
 
 * **Pick the First Feature To Build**
   * Scope down and hone in
