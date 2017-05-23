@@ -8,7 +8,7 @@ In this README, you will find a table of contents linking to a series of guides 
 ## Table of Contents - (Days [One](https://github.com/CodeNowOrg/level_one_curriculum#day-one---timeline "Day One Table of Contents"), [Two](https://github.com/CodeNowOrg/level_one_curriculum#day-two---timeline "Day Two Table of Contents"), [Three](), & [Four]())
 ### Day One - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/day_one_timeline.md "Day One Timeline")
 * **How to Find a Meaningful Problem to Solve**
-  * Solve a problem you care about
+  * [Solve a problem you care about](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/solve_a_problem_you_care_about.md "Solve a problem you care about")
   * Examples of successful companies and the problems that started them
   * Marshmallow challenge activity
 

@@ -1,3 +1,5 @@
+# Solve a problem you care about
+
 DHH, the creator of [Ruby on Rails](http://rubyonrails.org "Ruby on Rails"), talks about what gave him the motivation to learn to code. David didn’t learn Ruby (and invent Rails) because he was trying to get a job as a programmer. He learned because he was burning to solve a problem, and he needed software to solve it. He learned how to code in Ruby because he needed to solve the problem his company, [Basecamp](https://basecamp.com "Basecamp"), faced with managing their client’s projects.
 
 But finding a meaningful problem to solve isn't easy. Ideas don't just drop out of the sky. By developing your ability to notice and observe the world around you, it’s possible to get skilled at coming up with good ideas.
