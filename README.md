@@ -5,8 +5,8 @@ This repository is a central location for all the resources needed to teach Leve
 
 In this README, you will find a table of contents linking to a series of guides and the sample front-end and Rails projects. These guides and projects serve as resources to help you prepare for teaching your students during the program. They also outline the lesson plan for the workshop itself.
 
-## Table of Contents - (Days [One](/level_one_curriculum#day-one---timeline), [Two](/level_one_curriculum#day-two---timeline), [Three](), [Four]())
-### Day One - [Timeline](/level_one_curriculum/day_one/day_one_timeline.md)
+## Table of Contents - (Days [One](https://github.com/CodeNowOrg/level_one_curriculum#day-one---timeline "Day One Table of Contents"), [Two](https://github.com/CodeNowOrg/level_one_curriculum#day-one---timeline "Day Two Table of Contents"), [Three](), [Four]())
+### Day One - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/day_one_timeline.md "Day One Timeline")
 * **How to Find a Meaningful Problem to Solve**
   * Solve a problem you care about
   * Examples of successful companies and the problems that started them
@@ -47,5 +47,5 @@ In this README, you will find a table of contents linking to a series of guides 
   * Add and commit your first change
   * Push to GitHub
 
-### Day Two - [Timeline]()
+### Day Two - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_two/day_two_timeline.md "Day Two Timeline")
 * **It's All About Content**
