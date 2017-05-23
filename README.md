@@ -5,14 +5,36 @@ This repository is a central location for all the resources needed to teach Leve
 
 In this README, you will find a table of contents linking to a series of guides and the sample front-end and Rails projects. These guides and projects serve as resources to help you prepare for teaching your students during the program. They also outline the lesson plan for the workshop itself.
 
-## Table of Contents
-### Day One
+## Table of Contents - [Day One](https://github.com/CodeNowOrg/level_one_curriculum#day-one), [Day Two](), [Day Three](), [Day Four]()
+### Day One - [Timeline](https://www.google.com)
+* **How to Find a Meaningful Problem to Solve**
+  * Solve a problem you care about
+  * Examples of successful companies and the problems that started them
+  * Marshmallow challenge activity
+
+* **The Problem We'll Be Solving During the Workshop**
+  * A problem worth solving
+  * Peer interviews activity
+
+* **Brainstorm the Features**
+ * All the possible features
+ * Country map and feature rank activity
+
+* **Pick the First Feature To Build**
+  * Scope down and hone in
+  * Feature map activity
+
+* **Sketch**
+  * Sketch your vision
+  * Sketch your screens activity
+
+
 * **Account Setup**
-  * Create your GitHub Account
-  * Create your Cloud9 Account
+  * Create your GitHub account
+  * Create your Cloud9 account
   * Connect GitHub to Cloud9
-  * Create your first GitHub Repository
-  * Create your first Cloud9 Workspace
+  * Create your first GitHub repository
+  * Create your first Cloud9 workspace
 
 * **The Command Line**
   * What is the command line?
