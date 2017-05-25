@@ -1,4 +1,4 @@
-# Examples of successful companies and the problems that started them
+# Examples of Successful Companies and the Problems That Started Them
 
 ### ***[Keynote]( "Solve a Problem You Care About - Keynote") | [PowerPoint]( "Solve a Problem You Care About - PowePoint")***
 

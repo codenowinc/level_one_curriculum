@@ -8,13 +8,13 @@ In this README, you will find a table of contents linking to a series of guides 
 ## Table of Contents - (Days [One](https://github.com/CodeNowOrg/level_one_curriculum#day-one---timeline "Day One Table of Contents"), [Two](https://github.com/CodeNowOrg/level_one_curriculum#day-two---timeline "Day Two Table of Contents"), [Three](), & [Four]())
 ### Day One - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/day_one_timeline.md "Day One Timeline")
 * **How to Find a Meaningful Problem to Solve**
-  * [Solve a problem you care about](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/solve_a_problem_you_care_about.md "Solve a problem you care about")
-  * [Examples of successful companies and the problems that started them](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/examples_of_companies_and_the_problems_that_started_them.md "Examples of successful companies and the problems that started them")
-  * [Marshmallow challenge activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/marshmallow_challenge_activity.md "Marshmallow Challenge Activity")
+  * [Solve A Problem You Care About](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/solve_a_problem_you_care_about.md "Solve A Problem You Care About")
+  * [Examples of Successful Companies and the Problems That Started Them](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/examples_of_companies_and_the_problems_that_started_them.md "Examples of Successful Companies and the Problems That Started Them")
+  * [Marshmallow Challenge Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/marshmallow_challenge_activity.md "Marshmallow Challenge Activity")
 
 * **The Problem We'll Be Solving During the Workshop**
-  * A problem worth solving
-  * Peer interviews activity
+  * [A Problem Worth Solving](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/a_problem_worth_solving.md "A Problem Worth Solving")
+  * [Peer Interviews Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/peer_interviews_activity.md "Peer Interviews Activity")
 
 * **Brainstorm the Features**
   * All the possible features

@@ -1,4 +1,4 @@
-# Solve a problem you care about
+# Solve a Problem You Care About
 
 ### ***[Keynote]( "Solve a Problem You Care About - Keynote") | [PowerPoint]( "Solve a Problem You Care About - PowePoint")***
 
