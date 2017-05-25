@@ -1,6 +1,6 @@
-# Scoping Down and Honing In
+# Scope Down and Hone In
 
-### ***[Keynote]( "Scoping Down and Honing In - Keynote") | [PowerPoint]( "Scoping Down and Honing In - PowePoint")***
+### ***[Keynote]( "Scope Down and Hone In - Keynote") | [PowerPoint]( "Scope Down and Hone In - PowePoint")***
 
 Now it's time to drill a little deeper. We'll take the most important feature of our PomoDoro app, tracking assignments, and list out all the functionality we'll need to make the feature work.
 
