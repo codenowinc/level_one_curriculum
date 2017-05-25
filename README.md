@@ -22,7 +22,7 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Pick the First Feature To Build**
   * [Scope Down and Hone In](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/scope_down_and_hone_in.md "Scope Down and Hone In")
-  ~~* Feature Map Activity~~
+  * ~~Feature Map Activity~~
 
 * **Sketch**
   * [Sketch Your Vision](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/sketch_your_vision.md "Sketch Your Vision")
