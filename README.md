@@ -21,12 +21,12 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Draw Your Country Map and Rank the Features Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/draw_your_country_map_and_rank_the_features_activity.md "Draw Your Country Map and Rank the Features Activity")
 
 * **Pick the First Feature To Build**
-  * Scope Down and Hone In
-  * Feature map activity
+  * [Scope Down and Hone In](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/scope_down_and_hone_in.md "Scope Down and Hone In")
+  ~~* Feature Map Activity~~
 
 * **Sketch**
-  * Sketch your vision
-  * Sketch your screens activity
+  * [Sketch Your Vision](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/sketch_your_vision.md "Sketch Your Vision")
+  * [Sketch Your Screens Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/sketch_your_screens_activity.md "Sketch Your Screens Activity")
 
 
 * **Account Setup**
