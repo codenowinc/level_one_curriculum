@@ -48,4 +48,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * Push to GitHub
 
 ### Day Two - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_two/day_two_timeline.md "Day Two Timeline")
-* **It's All About Content**
+* **It's All About the Content**
