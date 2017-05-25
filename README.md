@@ -50,5 +50,3 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ### Day Two - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_two/day_two_timeline.md "Day Two Timeline")
 * **It's All About the Content**
-=======
->>>>>>> 252d689e64b8727b419220af0d6766d5fcd66e0d
