@@ -1,6 +1,6 @@
-# Sketching Your Vision
+# Sketch Your Vision
 
-### ***[Keynote]( "Sketching Your Vision - Keynote") | [PowerPoint]( "Sketching Your Vision - PowePoint")***
+### ***[Keynote]( "Sketch Your Vision - Keynote") | [PowerPoint]( "Sketch Your Vision - PowePoint")***
 
 We've defined the problem we're trying to solve and who we're solving it for. We've mapped out the overarching areas of the solution and picked the most impactful place to start - tracking assignments. Finally, we listed out the functionality users will need to successfully track assignments using our app.
 
