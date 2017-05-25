@@ -15,7 +15,7 @@ Here is a feature list of Instagram as it exists today.
   * Send dms
   * View & post stories
 
-  Instagram's initial value to their user was the user being able to post their photos in a beautiful and simple interface. Instagram made almost any picture look good. Instagram didn't introduce all of these features at the same time, they had to lay them out and prioritize one at a time. To better visualize our features we lay them out in what we call a country map.
+Instagram's initial value to their user was the user being able to post their photos in a beautiful and simple interface. Instagram made almost any picture look good. Instagram didn't introduce all of these features at the same time, they had to lay them out and prioritize one at a time. To better visualize our features we lay them out in what we call a country map.
 
 ~~LINK TO INSTAGRAM COUNTRY MAP HERE~~
 
