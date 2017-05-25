@@ -17,8 +17,8 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Peer Interviews Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/peer_interviews_activity.md "Peer Interviews Activity")
 
 * **Brainstorm the Features**
-  * All the possible features
-  * Country map and feature rank activity
+  * [All the Possible Features](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/all_the_possible_features.md "All the Possible Features")
+  * [Draw Your Country Map and Rank the Features Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/draw_your_country_map_and_rank_the_features_activity.md "Draw Your Country Map and Rank the Features Activity")
 
 * **Pick the First Feature To Build**
   * Scope down and hone in
