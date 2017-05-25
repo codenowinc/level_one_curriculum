@@ -16,7 +16,7 @@
 
   She defaults back to some combination of her planner, her phone, her hand, and just trying to remember everything she has to get done in her head. She finds herself back in the same place. Last minute marathon sessions between 8:00 pm and 2:00 am. When she does start working, she is stressed about all the work she has to complete and jumps around from one task to another. The work she does is never as good as she knows it can be. Her friend told her about a time management tool called the Pomodoro Technique. She tried it and found it really helpful. But in her stressed out state, she doesn't want the additional task of timing her work and feels like she's behind and can't afford to take any breaks.
 
-### Example PomoDoro Feature List
+### Example Todo List App Feature List
   * Track/manage assignments
   * Time assignments using Pomodoro timer
   * Track/manage distractions
