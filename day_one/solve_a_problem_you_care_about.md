@@ -1,6 +1,6 @@
 # Solve a problem you care about
 
-### ***[Keynote](www.google.com "Solve a problem you care about - Keynote") | [PowerPoint]( "Solve a problem you care about - PowePoint")***
+### ***[Keynote](www.test.com "Solve a problem you care about - Keynote") | [PowerPoint](www.test.com "Solve a problem you care about - PowePoint")***
 
 DHH, the creator of [Ruby on Rails](http://rubyonrails.org "Ruby on Rails"), talks about what gave him the motivation to learn to code. David didn’t learn Ruby (and invent Rails) because he was trying to get a job as a programmer. He learned because he was burning to solve a problem, and he needed software to solve it. He learned how to code in Ruby because he needed to solve the problem his company, [Basecamp](https://basecamp.com "Basecamp"), faced with managing their client’s projects.
 
