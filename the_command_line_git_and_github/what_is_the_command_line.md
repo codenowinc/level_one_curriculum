@@ -1,5 +1,4 @@
 # What is the Command Line?
-
 The command-line user interface (CLI) is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines).
 
 The command line we'll be working with throughout this workshop is the one on the bottom half of the screen in your Cloud9 workspace.
