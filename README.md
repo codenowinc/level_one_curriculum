@@ -41,17 +41,16 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
 ### The Command Line, Git, and GitHub
-
   * **The Command Line**
     * [What is the Command Line?](/the_command_line_git_and_github/what_is_the_command_line.md "What is the Command Line?")
     * [Navigate Through the Command Line](/the_command_line_git_and_github/navigate_through_the_command_line.md "Navigate Through the Command Line")
     * [Create New Files and Directories](/the_command_line_git_and_github/create_new_files_and_directories.md "Create New Files and Directories")
 
   * **Git and GitHub**
-    * What are Git and GitHub?
-    * Initialize your first git repository
-    * Add and commit your first change
-    * Push to GitHub
+    * [What are Git and GitHub?]( "What are Git and GitHub?")
+    * [Initialize Your First Git Repository]( "Initialize Your First Git Repository")
+    * [Add and Commit Your First Change]( "Add and Commit Your First Change")
+    * [Push to GitHub]( "Push to GitHub")
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
