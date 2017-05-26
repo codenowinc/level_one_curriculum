@@ -8,10 +8,10 @@ In this README, you will find a table of contents linking to a series of guides 
 ## Table of Contents
 
 ### Workshop Timelines
-  * [Day One](/day_one/day_one_timeline.md "Day One Timeline")
-  * [Day Two](/day_two/day_two_timeline.md "Day Two Timeline")
-  * Day Three
-  * Day Four
+  * [**Day One**](/day_one/day_one_timeline.md "Day One Timeline")
+  * [**Day Two**](/day_two/day_two_timeline.md "Day Two Timeline")
+  * [**Day Three**]()
+  * [**Day Four**]()
 
 ### Product Development
   * **How to Find a Meaningful Problem to Solve**
