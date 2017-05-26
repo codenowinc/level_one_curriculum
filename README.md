@@ -30,8 +30,8 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Sketch Your Screens Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/sketch_your_screens_activity.md "Sketch Your Screens Activity")
 
   * **Account Setup**
-    * Create your first GitHub repository
-    * Create your first Cloud9 workspace
+    * [Create your First GitHub Repository](/day_one/create_your_first_github_repository.md"Create your First GitHub Repository")
+    * [Create Your First Cloud9 Workspace](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
   * **The Command Line**
     * What is the command line?
