@@ -53,8 +53,6 @@ In this README, you will find a table of contents linking to a series of guides 
     * Add and commit your first change
     * Push to GitHub
 
-### Day Two
-
-  #### [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
+### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
   * **It's All About the Content**
