@@ -7,13 +7,13 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ## Table of Contents
 
-### Workshop Timelines
+## Workshop Timelines
   * [**Day One**](/workshop_timelines/day_one_timeline.md "Day One Timeline")
   * [**Day Two**](/workshop_timelines/day_two_timeline.md "Day Two Timeline")
   * [**Day Three**]()
   * [**Day Four**]()
 
-### Product Development
+## Product Development
   * **How to Find a Meaningful Problem to Solve**
     * [Solve A Problem You Care About](/day_one/solve_a_problem_you_care_about.md "Solve A Problem You Care About")
     * [Examples of Successful Companies and the Problems That Started Them](/day_one/examples_of_companies_and_the_problems_that_started_them.md "Examples of Successful Companies and the Problems That Started Them")
@@ -36,12 +36,12 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Sketch Your Screens Activity](/day_one/sketch_your_screens_activity.md "Sketch Your Screens Activity")
 
 
-### Account Setup
+## Account Setup
   * **Account Setup**
     * [Create your First GitHub Repository](/day_one/create_your_first_github_repository.md "Create your First GitHub Repository")
     * [Create Your First Cloud9 Workspace](/day_one/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
-### The Command Line and Git/Hub
+## The Command Line and Git/Hub
 
   * **The Command Line**
     * What is the command line?
@@ -54,7 +54,7 @@ In this README, you will find a table of contents linking to a series of guides 
     * Add and commit your first change
     * Push to GitHub
 
-### Day Two
+## Day Two
 
   #### [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
