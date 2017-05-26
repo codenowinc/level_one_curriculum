@@ -5,27 +5,27 @@ The first thing we want to be able to do is to find our way around while we're i
 
 ### `cd`
 Let's start by going to our Cloud9 command line and typing in the following command:
-```unix
+```bash
 $ cd
 ```
 
 Hit enter after you are done.
 
 Your prompt should now look something like:
-```unix
+```bash
 username:~ $
 ```
 `cd` stands for change directory, and it is the command we'll be using to navigate from one folder to another when we're in the command line.
 
 ### `pwd`
 Before we can use the cd command to change our position, we need to know where we are and where we have the option of going. To get a bearing on your location in the file tree, enter the following command:
-```unix
+```bash
 $ pwd
 ```
 >Give your students a few seconds to enter in the pwd command.
 
 You should see an output similar to the following:
-```unix
+```bash
 /home/ubuntu
 ```
 
@@ -33,7 +33,7 @@ You should see an output similar to the following:
 
 ### `ls`
 So now that we know where we are, we have to figure out where we can go. To see all the directories and files within the ubuntu directory that we're currently in, we use the following command:
-```unix
+```bash
 $ ls
 ```
 
@@ -42,7 +42,7 @@ $ ls
 `ls` stands for list, and we use it to see what directories and files are in the directory we're currently in.
 
 After entering ls, you should see an output similar to the following:
-```unix
+```bash
 lib/  workspace/
 ```
 
@@ -52,7 +52,7 @@ It looks like within the Ubuntu directory, there are two directories named lib a
 Now that we know what our option are as far as where we can go, we can use the cd command followed by the name of the directory we want to change into.
 
 Enter the following command:
-```unix
+```bash
 $cd workspace/
 ```
 
