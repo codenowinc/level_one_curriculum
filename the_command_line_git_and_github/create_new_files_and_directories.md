@@ -63,8 +63,8 @@ Now that we understand how to create and remove directories and files, let's cre
 
 We want to create two HTML files. One called index.html and another called show.html. Using the commands you just learned, can you create those two HTML files?
 
->Give your students a few minutes to create these new html files using the touch command. Help them get the answer by questioning their thought process, if they are going off track.
+>Give your students a few minutes to create these new html files using the `touch` command. Help them get the answer by questioning their thought process, if they are going off track.
 
 We also want to create two CSS files. One called index.css and another called show.css.
 
->Give your students a few minutes to create these new css files using the touch command.
+>Give your students a few minutes to create these new css files using the `touch` command.
