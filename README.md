@@ -1,4 +1,5 @@
 # CodeNow Level One Curriculum
+
 Welcome to the CodeNow Level One curriculum repository!
 
 This repository is a central location for all the resources needed to teach Level One of the program.
@@ -44,8 +45,8 @@ In this README, you will find a table of contents linking to a series of guides 
 
   * **The Command Line**
     * [What is the Command Line?](/the_command_line_git_and_github/what_is_the_command_line.md "What is the Command Line?")
-    * Navigate through the command line
-    * Create new files and directories
+    * [Navigate Through the Command Line](/the_command_line_git_and_github/navigate_through_the_command_line.md "Navigate Through the Command Line")
+    * [Create New Files and Directories](/the_command_line_git_and_github/create_new_files_and_directories.md "Create New Files and Directories")
 
   * **Git and GitHub**
     * What are Git and GitHub?
