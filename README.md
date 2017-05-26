@@ -49,6 +49,6 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ### Day Two - [Timeline](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_two/day_two_timeline.md "Day Two Timeline")
 
-  #### [CodeNow Sample Todo Application - Front End Mockup](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup")
+  #### [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
   * **It's All About the Content**
