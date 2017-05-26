@@ -8,6 +8,7 @@ Let's start by going to our Cloud9 command line and typing in the following comm
 ```bash
 $ cd
 ```
+
 Hit enter after you are done.
 
 Your prompt should now look something like:
@@ -17,14 +18,33 @@ username:~ $
 `cd` stands for change directory, and it is the command we'll be using to navigate from one folder to another when we're in the command line.
 
 ### `pwd`
-Before we can use the cd command to change our position, we need to know where we are and where we have the option of going. To get a bearing on your location in the file tree, enter the command
+Before we can use the cd command to change our position, we need to know where we are and where we have the option of going. To get a bearing on your location in the file tree, enter the following command:
 ```bash
 $ pwd
 ```
 >Give your students a few seconds to enter in the pwd command.
 
+You should see an output similar to the following:
 ```bash
 /home/ubuntu
 ```
 
-pwd stands for print working directory, and it will always return the path (or address) to the directory in which you are currently in. Based on what was returned just now, we are in a directory called Ubuntu, which is in a directory called home, which is in the root directory (or top most level folder) of the file tree.
+`pwd` stands for print working directory, and it will always return the path (or address) to the directory in which you are currently in. Based on what was returned just now, we are in a directory called Ubuntu, which is in a directory called home, which is in the root directory (or top most level folder) of the file tree.
+
+### `ls`
+So now that we know where we are, we have to figure out where we can go. To see all the directories and files within the ubuntu directory that we're currently in, we use the following command:
+```bash
+$ ls
+```
+
+>Give your students a few seconds to enter the ls command.
+
+`ls` stands for list, and we use it to see what directories and files are in the directory we're currently in.
+
+After entering ls, you should see an output similar to the following:
+```bash
+lib/  workspace/
+```
+
+It looks like within the Ubuntu directory, there are two directories named lib and workspace.
+
