@@ -30,9 +30,6 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Sketch Your Screens Activity](https://github.com/CodeNowOrg/level_one_curriculum/blob/master/day_one/sketch_your_screens_activity.md "Sketch Your Screens Activity")
 
   * **Account Setup**
-    * Create your GitHub account
-    * Create your Cloud9 account
-    * Connect GitHub to Cloud9
     * Create your first GitHub repository
     * Create your first Cloud9 workspace
 
