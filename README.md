@@ -40,14 +40,14 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Create your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create your First GitHub Repository")
     * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
-### The Command Line and Git/Hub
+### The Command Line, Git, and GitHub
 
   * **The Command Line**
     * What is the command line?
     * Navigate through the command line
     * Create new files and directories
 
-  * **Introduction to Git and GitHub**
+  * **Git and GitHub**
     * What are Git and GitHub?
     * Initialize your first git repository
     * Add and commit your first change
