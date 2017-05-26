@@ -5,9 +5,15 @@ This repository is a central location for all the resources needed to teach Leve
 
 In this README, you will find a table of contents linking to a series of guides and the sample front-end and Rails projects. These guides and projects serve as resources to help you prepare for teaching your students during the program. They also outline the lesson plan for the workshop itself.
 
-## Table of Contents - (Days [One](https://github.com/CodeNowOrg/level_one_curriculum#day-one---timeline "Day One Table of Contents"), [Two](https://github.com/CodeNowOrg/level_one_curriculum#day-two---timeline "Day Two Table of Contents"), [Three](), & [Four]())
+## Table of Contents
 
-### Day One - [Timeline](/day_one/day_one_timeline.md "Day One Timeline")
+### Workshop Timelines
+  * [Day One](/day_one/day_one_timeline.md "Day One Timeline")
+  * [Day Two](/day_two/day_two_timeline.md "Day Two Timeline")
+  * Day Three
+  * Day Four
+
+### Product Development
   * **How to Find a Meaningful Problem to Solve**
     * [Solve A Problem You Care About](/day_one/solve_a_problem_you_care_about.md "Solve A Problem You Care About")
     * [Examples of Successful Companies and the Problems That Started Them](/day_one/examples_of_companies_and_the_problems_that_started_them.md "Examples of Successful Companies and the Problems That Started Them")
@@ -29,9 +35,13 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Sketch Your Vision](/day_one/sketch_your_vision.md "Sketch Your Vision")
     * [Sketch Your Screens Activity](/day_one/sketch_your_screens_activity.md "Sketch Your Screens Activity")
 
+
+### Account Setup
   * **Account Setup**
     * [Create your First GitHub Repository](/day_one/create_your_first_github_repository.md "Create your First GitHub Repository")
     * [Create Your First Cloud9 Workspace](/day_one/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
+
+### The Command Line and Git/Hub
 
   * **The Command Line**
     * What is the command line?
@@ -44,7 +54,7 @@ In this README, you will find a table of contents linking to a series of guides 
     * Add and commit your first change
     * Push to GitHub
 
-### Day Two - [Timeline](/day_two/day_two_timeline.md "Day Two Timeline")
+### Day Two
 
   #### [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
