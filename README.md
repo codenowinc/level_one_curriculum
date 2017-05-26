@@ -43,7 +43,7 @@ In this README, you will find a table of contents linking to a series of guides 
 ### The Command Line, Git, and GitHub
 
   * **The Command Line**
-    * What is the command line?
+    * [What is the Command Line?](/the_command_line_git_and_github/what_is_the_command_line.md "What is the Command Line?")
     * Navigate through the command line
     * Create new files and directories
 
