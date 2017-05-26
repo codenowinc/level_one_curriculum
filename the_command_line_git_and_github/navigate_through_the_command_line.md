@@ -48,3 +48,21 @@ lib/  workspace/
 
 It looks like within the Ubuntu directory, there are two directories named lib and workspace.
 
+### `cd` Again...
+Now that we know what our option are as far as where we can go, we can use the cd command followed by the name of the directory we want to change into.
+
+Enter the following command:
+```bash
+$cd workspace/
+```
+
+>Give your students a few seconds to enter the cd workspace command
+
+After we `cd` into the workspace directory, we can immediately see that the prompt before the `$` in our command line has changed.
+
+Now that we've changed our location within the file tree let's take a moment to get our bearings. Enter the `pwd` command again.
+
+>Give your students a moment to enter the pwd command again. Ask them if they noticed what's different, and to explain what they noticed to the rest of the group. The path now reflects that they are in the workspace directory.
+
+
+
