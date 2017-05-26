@@ -1,5 +1,4 @@
 # CodeNow Level One Curriculum
-
 Welcome to the CodeNow Level One curriculum repository!
 
 This repository is a central location for all the resources needed to teach Level One of the program.
@@ -7,7 +6,6 @@ This repository is a central location for all the resources needed to teach Leve
 In this README, you will find a table of contents linking to a series of guides and the sample front-end and Rails projects. These guides and projects serve as resources to help you prepare for teaching your students during the program. They also outline the lesson plan for the workshop itself.
 
 ## Table of Contents
-
 ### Workshop Timelines
   * [**Day One**](/workshop_timelines/day_one_timeline.md "Day One Timeline")
   * [**Day Two**](/workshop_timelines/day_two_timeline.md "Day Two Timeline")

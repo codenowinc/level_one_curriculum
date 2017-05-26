@@ -1,5 +1,4 @@
 # Create Your First Cloud9 Workspace
-
 **1. Log into your Cloud9 account, you will be taken to your workspaces dashboard. Click the large gray box that says "Create a new workspace."**
   ![Create a new workspace](/images/create_your_first_cloud9_workspace/01.png "Create a new workspace")
 
