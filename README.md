@@ -52,4 +52,5 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
-  * **It's All About the Content**
+* **HTML**
+  *[HTML Starts With Content]( "HTML Starts With Content")
