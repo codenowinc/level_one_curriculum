@@ -4,7 +4,7 @@ The main purpose of HTML is to manage the content we want to display on the web.
 >Give the students 2-3 minutes to complete this. Cut and paste the code below into your HTML file in Cloud9. Run the server and show the students what it looks like. Ask them if theirs looks similar.
 
 
-***File Name: index.html***
+*File Name: index.html*
 ```HTML
 Workshop Todo List
 Make the curriculum 4 pomodoros
