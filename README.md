@@ -48,7 +48,7 @@ In this README, you will find a table of contents linking to a series of guides 
 
   * **Git and GitHub**
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
-    * [Commit and Push Your First Change](/the_command_line_git_and_github/commit_and_push_your_first_change.md "Commit and Push Your First Change")
+    * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
