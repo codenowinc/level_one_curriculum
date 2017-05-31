@@ -48,9 +48,7 @@ In this README, you will find a table of contents linking to a series of guides 
 
   * **Git and GitHub**
     * [What are Git and GitHub?]( "What are Git and GitHub?")
-    * [Initialize Your First Git Repository]( "Initialize Your First Git Repository")
-    * [Add and Commit Your First Change]( "Add and Commit Your First Change")
-    * [Push to GitHub]( "Push to GitHub")
+    * [Commit and Push Your First Change]( "Commit and Push Your First Change")
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
