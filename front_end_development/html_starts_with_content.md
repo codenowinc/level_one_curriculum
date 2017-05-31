@@ -24,3 +24,5 @@ HTML stand for Hyper Text Markup Language. HTML consists of tags that we wrap ar
   fuga quaerat! Numquam qui nemo, similique.
 </p>
 ```
+
+We wrap our content in tags so that we have a hook by which to grab or refer to specific pieces of content. Let's learn a little more about HTML tags.
