@@ -31,20 +31,20 @@ When starting a new HTML document, there are a set of HTML tags we need to start
 
 Now that we have the tags that make up the basic structure of an HTML document, let's take a minute to understand what each one is for.
 
-### `<html></html>`
+#### `<html></html>`
 An opening <html> tag should appear first and a closing </html> tag should appear at the bottom of every HTML document. Every other bit of HTML should appear between those two tags.
 
-### `<head></head>`
+#### `<head></head>`
 The head is placed before the body and includes information about the web page and instructions for web browsers and search engine web crawlers. We'll talk more about what goes into the head tag as we continue to build our application.
 
-### `<title></title>`
+#### `<title></title>`
 Every HTML document head should contain a page title. The page title is used as the name of the web page when it appears on a search engine results page (SERP). The title is also used as a label for the browser window or tab where the web page is loaded.
 
 Let's try updating the content between our title tags. Enter a short description that reflects the purpose of this page.
 
 >Give your students a few seconds to update the content within the title tags and refresh their output to see how the content in the browser tab changes. The title of the sample todo application is `<title>Todo List Application</title>`
 
-### `<body></body>`
+#### `<body></body>`
 The `<body></body>` element contains the entire content of a webpage. It must be the second element inside of the parent `<html></html>` element, following only the `<head></head>` element.
 
 Now that we've gotten a brief introduction to what each of these tags is for, let's move all of our contentinto our `<body></body>` tag.
