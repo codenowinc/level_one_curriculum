@@ -1,4 +1,4 @@
-# Different Tags For Different Content
+# Different Tags for Different Content
 So far, we have one big block of content in our index.html file. In that block, we have the name of the page, we have our list of todos, and we have the "Add todo" content that's supposed to allow us to add a new todo to our list.
 
 Using that description of the content and this [HTML tag reference resource on W3 schools](https://www.w3schools.com/TAgs/ "W3 HTML Element Reference"), see if you can properly tag all of the content inside of your body tags.
