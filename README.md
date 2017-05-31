@@ -47,7 +47,7 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Create New Files and Directories](/the_command_line_git_and_github/create_new_files_and_directories.md "Create New Files and Directories")
 
   * **Git and GitHub**
-    * [What are Git and GitHub?]( "What are Git and GitHub?")
+    * [Initializing Git]( "# Initializing Git")
     * [Commit and Push Your First Change]( "Commit and Push Your First Change")
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")

@@ -1,4 +1,4 @@
-# What are Git and GitHub
+# Initializing Git
 Over the next three days, we're going to be writing a lot of code. You're going to want to save all of your hard work along the way. Sometimes, you'll want to rewind and go back to an older version of your code, maybe because you didn't like the direction you took it in.
 
 To help with these version control and saving tasks, we use a program called Git, which is already installed in Cloud9. To start tracking the changes we make to our code, we must initialize the repository we're currently working in, telling it to use git.
