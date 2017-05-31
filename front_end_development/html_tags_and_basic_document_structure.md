@@ -66,7 +66,6 @@ Now that we've gotten a brief introduction to what each of these tags is for, le
     Check pre-work assignments 2 pomodoros
     Send workshop location to all the students 1 pomodoro
     Have a great workshop 0 pomodoros
-    Add todo
   </body>
 </html>
 ```

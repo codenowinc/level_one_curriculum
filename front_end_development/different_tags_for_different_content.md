@@ -3,7 +3,7 @@ So far, we have one big block of content in our index.html file. In that block, 
 
 Using that description of the content and this [HTML tag reference resource on W3 schools](https://www.w3schools.com/TAgs/ "W3 HTML Element Reference"), see if you can properly tag all of the content inside of your body tags.
 
->Give your students time complete this exercise. Walk around your group and talk them through the logic of headers, lists, list items, inputs (type checkbox and submit) and links. Explain how they should search for specific tags that are supposed to be used for specific content types. Remind them of the concept of semantic tagging. After this exercise, the code should look similar to the block below.
+>Give your students time complete this exercise. Walk around your group and talk them through the logic of headers, lists, list items, inputs (type checkbox) and links. Explain how they should search for specific tags that are supposed to be used for specific content types. Remind them of the concept of semantic tagging. After this exercise, the code should look similar to the block below.
 
 *index.html*
 ```HTML
@@ -43,8 +43,6 @@ Using that description of the content and this [HTML tag reference resource on W
         Have a great workshop 0 pomodoros
       </li>
     </ul>
-
-    <input type="text" value="Add todo">
   </body>
 </html>
 ```
