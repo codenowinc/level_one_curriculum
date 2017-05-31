@@ -90,11 +90,56 @@ Run your server and look at your input fields. Try entering information into the
 #### `<input type="submit">`
 Finally, we need to give our users a way to submit the information after they've entered it into the input fields. There is a third type of input we can use for this, it is called `<input type="submit">`.
 
-Add the following code right after your other two `<input>` tags.
+Add the following code right after your other two `<input>` tags. the `value=` attribute is the text that will go on the submit button.
 ```HTML
-<input type="submit" placeholder="Add todo">
+<input type="submit" value="Add todo">
 ```
 
->Give your students time to add the final `<input>` tag to their index.html files and test out the functionality.
+>Give your students time to add the final `<input>` tag to their index.html files and test out the functionality. This steps final version of the index.html can be found below.
 
+*index.html*
+```HTML
+<html>
+  <head>
+    <title>Todo List Application</title>
+  </head>
+  <body>
+    <h1>Workshop Todo List</h1>
+    <ul>
+      <li>
+        <input type="checkbox">
+        Make the curriculum 4 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Buy workshop supplies 3 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Meet with the volunteer trainers 2 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Order food for Saturday and Sunday 1 pomodoro
+      </li>
+      <li>
+        <input type="checkbox">
+        Check pre-work assignments 2 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Send workshop location to all the students 1 pomodoro
+      </li>
+      <li>
+        <input type="checkbox">
+        Have a great workshop 0 pomodoros
+      </li>
+    </ul>
+
+    <input type="text" placeholder="Add a new todo...">
+    <input type="number" placeholder="Pomodoro estimate...">
+    <input type="submit" value="Add todo">
+  </body>
+</html>
+```
 And that's the first step adding a new todo to our lists!
