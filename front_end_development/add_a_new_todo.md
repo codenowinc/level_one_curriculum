@@ -143,3 +143,23 @@ Add the following code right after your other two `<input>` tags. the `value=` a
 </html>
 ```
 And that's the first step adding a new todo to our lists!
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Add inputs to prepare for adding additional todos to todo list"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
+
