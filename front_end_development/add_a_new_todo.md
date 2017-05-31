@@ -5,14 +5,14 @@ HTML isn't just for tagging content that is displayed to the user through the we
 
 To add a new todo to our list, there are two pieces of information the user needs to provide: a description of the todo, and the number of Pomodoros they think it will take to complete the task.
 
-## `<input>`
+## The HTML Input Tag
 To accept input from the user, we can use the `<input>` HTML tag. The `<input>` tag is one of the few self closing tags in HTML, meaning that it does not have an opening and closing tag like all of the other tags we've seen so far.
 
 All HTML tag elements can be given what are known as attributes. An attribute either modifies the default functionality of an HTML tag, or provides functionality to the tag without which it would be unable to function correctly. In HTML syntax, an attribute is added to an HTML start tag.
 
 The `<input>` tag has a few attributes that we need to know about.
 
-###  `type=""`
+#### `type=""`
 The type attribute allows us to tell HTML what kind of information we are trying to gather from the user. To add a new todo, we need the user to enter some text describing the todo, and we need them to enter a number estimating how many Pomodoros it will take to complete the task. So in this case, we are going to create two `<input>` tags and each one is going to have a type attribure with a different value. The HTML will look like the following code:
 ```HTML
 <input type="text">
