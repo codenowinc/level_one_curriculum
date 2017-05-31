@@ -80,5 +80,21 @@ We want them to know what information they are supposed to enter into each input
 Edit your `<input>` tags so they look like the following code:
 ```HTML
 <input type="text" placeholder="Add a new todo...">
-<input type="number" placeholder="Enter Pomodoro estimate...">
+<input type="number" placeholder="Pomodoro estimate...">
 ```
+
+> Give your students a moment to update their `<input>` tags.
+
+Run your server and look at your input fields. Try entering information into the fields, what happens to the placeholders?
+
+#### `<input type="submit">`
+Finally, we need to give our users a way to submit the information after they've entered it into the input fields. There is a third type of input we can use for this, it is called `<input type="submit">`.
+
+Add the following code right after your other two `<input>` tags.
+```HTML
+<input type="submit" placeholder="Add todo">
+```
+
+>Give your students time to add the final `<input>` tag to their index.html files and test out the functionality.
+
+And that's the first step adding a new todo to our lists!
