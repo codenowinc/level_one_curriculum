@@ -1,4 +1,6 @@
 # HTML Starts With Content
+
+## Add Your Content
 The main purpose of HTML is to manage the content we want to display on the web. So we'll start by entering our content into our HTML file. Write out the title of this page. Write out your list of actual to-dos that you and your partner have to complete within the next week. Remember you'll also need a link on this page to add a new to-do to the list. All we're going to do is type the words that reflect what we want to appear on the page.
 
 >Give the students 2-3 minutes to complete this. Cut and paste the code below into your index.html file in Cloud9. Run the server and show the students what it looks like. Ask them if theirs looks similar.
@@ -16,6 +18,7 @@ Have a great workshop 0 pomodoros
 Add todo
 ```
 
+## What is HTML?
 HTML stand for Hyper Text Markup Language. HTML consists of tags that we wrap around our content. These tags are semantic, meaning they describe the content that they are wrapping. For example, below we have a paragraph of filler text. To indicate to HTML that this content is a paragraph, we'd wrap it in `<p></p>` tags like so.
 ```HTML
 <p>
