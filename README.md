@@ -56,3 +56,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * [HTML Starts With Content](/front_end_development/html_starts_with_content.md "HTML Starts With Content")
   * [HTML Tags and Basic Document Structure](/front_end_development/html_tags_and_basic_document_structure.md "HTML Tags and Basic Document Structure")
   * [Different Tags for Different Content](/front_end_development/different_tags_for_different_content.md "Different Tags for Different Content")
+  * [Create the Show Page Activity](/front_end_development/create_the_show_page_activity.md "Create the Show Page Activity")
