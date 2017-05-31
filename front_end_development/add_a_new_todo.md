@@ -69,3 +69,16 @@ Go ahead and add these two input HTML elements to the end of your index.html fil
   </body>
 </html>
 ```
+
+If you run your server and look at your index.html file live, you'll notice two text boxes at the bottom of your page into which you can type information into. In fact, the second box also has an up and down arrow on the right side to toggle numbers, and you can't type any characters into this box. HTML knows only numbers are supposed to be entered into this input field!
+
+But, if a user saw these two input boxes, they may have trouble figuring out what they are supposed to enter, so let's make it easier on them by giving them some context.
+
+#### `placeholder=`
+We want them to know what information they are supposed to enter into each input field. We can do this by adding another attribute to each input tag. This time the attribute we want to use is called placeholder. Let's see how it works.
+
+Edit your `<input>` tags so they look like the following code:
+```HTML
+<input type="text" placeholder="Add a new todo...">
+<input type="number" placeholder="Enter Pomodoro estimate...">
+```
