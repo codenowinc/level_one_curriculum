@@ -19,6 +19,8 @@ Add todo
 HTML stand for Hyper Text Markup Language. HTML consists of tags that we wrap around our content. These tags are semantic, meaning they describe the content that they are wrapping. For example, below we have a paragraph of filler text. To indicate to HTML that this content is a paragraph, we'd wrap it in `<p></p>` tags like so.
 ```HTML
 <p>
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque officia dignissimos, dolorem voluptatem, laborum ut nemo facilis in sapiente corporis molestiae, iusto vero consequatur fuga quaerat! Numquam qui nemo, similique.
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque officia dignissimos,
+  dolorem voluptatem, laborum ut nemo facilis in sapiente corporis molestiae, iusto vero consequatur
+  fuga quaerat! Numquam qui nemo, similique.
 </p>
 ```
