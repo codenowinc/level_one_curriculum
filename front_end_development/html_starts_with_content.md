@@ -29,3 +29,22 @@ HTML stand for Hyper Text Markup Language. HTML consists of tags that we wrap ar
 ```
 
 We wrap our content in tags so that we have a hook by which to grab or refer to specific pieces of content. Let's learn a little more about HTML tags.
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Add content to index.html"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
