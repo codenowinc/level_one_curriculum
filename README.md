@@ -52,11 +52,12 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
-* **HTML**
+* **Hyper Text Markup Language**
   * [HTML Starts With Content](/front_end_development/html_starts_with_content.md "HTML Starts With Content")
   * [HTML Tags and Basic Document Structure](/front_end_development/html_tags_and_basic_document_structure.md "HTML Tags and Basic Document Structure")
   * [Different Tags for Different Content](/front_end_development/different_tags_for_different_content.md "Different Tags for Different Content")
   * [Add a New Todo](/front_end_development/add_a_new_todo.md "Add a New Todo")
   * [The Show Page Activity](/front_end_development/the_show_page_activity.md "The Show Page Activity")
 
-* ***C*** ascading ***S***tyle ***S***heets
+* **Cascading Style Sheets**
+  * [All About Style](/front_end_development/all_about_style.md "All About Style")
