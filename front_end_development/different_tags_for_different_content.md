@@ -3,7 +3,7 @@ So far, we have one big block of content in our index.html file. In that block, 
 
 Using that description of the content and this [HTML tag reference resource on W3 schools](https://www.w3schools.com/TAgs/ "W3 HTML Element Reference"), see if you can properly tag all of the content inside of your body tags.
 
->Give your students time complete this exercise. Walk around your group and talk them through the logic of headers, lists, list items, and links. Explain how they should search for specific tags that are supposed to be used for specific content types. Remind them of the concept of semantic tagging. After this exercise, the code should look similar to the block below.
+>Give your students time complete this exercise. Walk around your group and talk them through the logic of headers, lists, list items, inputs (type checkbox and submit) and links. Explain how they should search for specific tags that are supposed to be used for specific content types. Remind them of the concept of semantic tagging. After this exercise, the code should look similar to the block below.
 
 *index.html*
 ```HTML
@@ -14,13 +14,34 @@ Using that description of the content and this [HTML tag reference resource on W
   <body>
     <h1>Workshop Todo List</h1>
     <ul>
-      <li>Make the curriculum 4 pomodoros</li>
-      <li>Buy workshop supplies 3 pomodoros</li>
-      <li>Meet with the volunteer trainers 2 pomodoros</li>
-      <li>Order food for Saturday and Sunday 1 pomodoro</li>
-      <li>Check pre-work assignments 2 pomodoros</li>
-      <li>Send workshop location to all the students 1 pomodoro</li>
-      <li>Have a great workshop 0 pomodoros</li>
+      <li>
+        <input type="checkbox">
+        Make the curriculum 4 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Buy workshop supplies 3 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Meet with the volunteer trainers 2 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Order food for Saturday and Sunday 1 pomodoro
+      </li>
+      <li>
+        <input type="checkbox">
+        Check pre-work assignments 2 pomodoros
+      </li>
+      <li>
+        <input type="checkbox">
+        Send workshop location to all the students 1 pomodoro
+      </li>
+      <li>
+        <input type="checkbox">
+        Have a great workshop 0 pomodoros
+      </li>
     </ul>
 
     <input type="text" value="Add todo">

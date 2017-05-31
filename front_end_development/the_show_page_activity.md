@@ -12,6 +12,7 @@ Open your show.html file in Cloud9, and add the HTML document structure tags and
     <title>Todo List Application</title>
   </head>
   <body>
+    <input type="checkbox">
     <h2>Make the curriculum 4 Pomodoros</h2>
     <a href="#">Edit</a>
     <a href="#">Delete</a>
