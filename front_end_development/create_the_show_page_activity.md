@@ -19,4 +19,10 @@ Open your show.html file in Cloud9, and add the HTML document structure tags and
   </body>
 </html>
 ```
-After you've fleshed our your show.html file, run your server in Cloud9 and view your show page live.
+After you've fleshed out your show.html file, run your server in Cloud9 and view your show page live.
+
+## Link Back to the Index Page
+Now it would be cool if we could click the "Go back..." link and it actually took us back to the Index page. All we have to do is enter a path instead of a "#" after the href attribute (href stand for hyperlink reference) for "Go back...". The page we want to go back to is index.html so our `<a href=""></a>` tag is going to look something like this:
+```HTML
+<a href="index.html">Go back...</a>
+```
