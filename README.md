@@ -55,3 +55,4 @@ In this README, you will find a table of contents linking to a series of guides 
 * **HTML**
   * [HTML Starts With Content](/front_end_development/html_starts_with_content.md "HTML Starts With Content")
   * [HTML Tags and Basic Document Structure](/front_end_development/html_tags_and_basic_document_structure.md "HTML Tags and Basic Document Structure")
+  * [Different Tags For Different Content](/front_end_development/different_tags_for_different_content.md "Different Tags For Different Content")
