@@ -13,4 +13,18 @@ Sometimes, there is no good predefined HTML tag for the type of content you have
 
 HTML should be used strictly for tagging the content on your web page, and never for styling how the content looks in the browser. We use CSS for that!
 
-## Adding HTML Tags to Set Up Basic Document Structure
+## Set Up Basic Document Structure
+When starting a new HTML document, there are a set of HTML tags we need to start off with by default. These tags make up the basic HTML document structure.
+
+>Share the HTML document structure tags below with your students and have them cut and paste the tags into their index.html documents above their content.
+
+```HTML
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+
+  </body>
+</html>
+```
