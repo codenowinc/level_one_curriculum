@@ -44,7 +44,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * **The Command Line**
     * [What is the Command Line?](/the_command_line_git_and_github/what_is_the_command_line.md "What is the Command Line?")
     * [Navigate Through the Command Line](/the_command_line_git_and_github/navigate_through_the_command_line.md "Navigate Through the Command Line")
-    * [Create Your First HTML File](/the_command_line_git_and_github/create_your_first_html_file.md "Create Your First HTML File")
+    * [Create Files In the Command Line](/the_command_line_git_and_github/create_files_in_the_command_line.md "Create Files In the Command Line")
 
   * **Git and GitHub**
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
