@@ -59,5 +59,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Add a New Todo](/front_end_development/add_a_new_todo.md "Add a New Todo")
   * [The Show Page Activity](/front_end_development/the_show_page_activity.md "The Show Page Activity")
 
-* **CSS**
-  *
+* ***C***ascading ***S***tyle ***S***heets
