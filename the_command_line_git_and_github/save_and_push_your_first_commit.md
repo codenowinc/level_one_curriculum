@@ -4,7 +4,7 @@ Over the next three days, we're going to be writing a lot of code. You're going 
 To help with these version control and saving tasks, we use a program called Git, which is already installed in Cloud9. To start tracking the changes we make to our code, we must initialize the repository we're currently working in, telling it to use git.
 
 
-## Initialize, Add, and Commit
+## git `init`, `add`, and `commit`
 To do this, first, we make sure we're in the correct directory. In our case, we want to be in the workspace directory. Using the correct terminal command, ensure that you are all in the correct directory.
 
 >Give your students a moment to check their current working directory with pwd.
