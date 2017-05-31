@@ -1,4 +1,4 @@
-# Create Your First HTML File
+# Create Files In the Command Line
 Now that we've navigated to our workspace directory, we can learn to create new directories and files. To create a new directory in the command line we use the following command:
 ```shell
 $ touch
@@ -9,6 +9,7 @@ followed by the name of the file, like this:
 $ touch file_name.txt
 ```
 
+## Create Your First HTML File
 Using the touch command, let's create a file named index.html.
 
 >Give your students a moment to use the touch command to create a file named index.html.
@@ -28,7 +29,7 @@ Click the green arrow marked run at the top of your workspace. It will open up a
 
 Ta-da! The page you are now looking at is the compiled version of the HTML file you just created. You are looking at a static HTML page that you created! Go ahead and change "Hello world!" to something else and refresh the browser window. See what happens!
 
-
+## A Few More Files You'll Need
 Now that we understand how to create files, let's create the files we're going to need to create our static HTML & CSS mockups of the sketches you drew earlier.
 
 We've already created the first HTML file we'll need, index.html. The second HTML file we'll need is called called show.html. Using the commands you just learned, can you create show.html?
