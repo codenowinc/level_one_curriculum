@@ -51,3 +51,22 @@ Now that we've gotten a brief introduction to what each of these tags is for, le
 
 >Give your students a minute to move their content into the body tags. Their code should look similar to the index.html file below.
 
+*index.html*
+```HTML
+<html>
+  <head>
+    <title>Todo List Application</title>
+  </head>
+  <body>
+    Workshop Todo List
+    Make the curriculum 4 pomodoros
+    Buy workshop supplies 3 pomodoros
+    Meet with the volunteer trainers 2 pomodoros
+    Order food for Saturday and Sunday 1 pomodoro
+    Check pre-work assignments 2 pomodoros
+    Send workshop location to all the students 1 pomodoro
+    Have a great workshop 0 pomodoros
+    Add todo
+  </body>
+</html>
+```
