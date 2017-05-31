@@ -35,11 +35,6 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Sketch Your Vision](/product_development/sketch_your_vision.md "Sketch Your Vision")
     * [Sketch Your Screens Activity](/product_development/sketch_your_screens_activity.md "Sketch Your Screens Activity")
 
-### Account Setup
-  * **GitHub and Cloud9**
-    * [Create your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create your First GitHub Repository")
-    * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
-
 ### The Command Line, Git, and GitHub
   * **The Command Line**
     * [What is the Command Line?](/the_command_line_git_and_github/what_is_the_command_line.md "What is the Command Line?")
@@ -49,6 +44,11 @@ In this README, you will find a table of contents linking to a series of guides 
   * **Git and GitHub**
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
     * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
+
+### Account Setup
+  * **GitHub and Cloud9**
+    * [Create your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create your First GitHub Repository")
+    * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
