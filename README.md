@@ -61,3 +61,4 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Cascading Style Sheets**
   * [All About Style](/front_end_development/all_about_style.md "All About Style")
+  * [CSS Selectors](/front_end_development/css_selectors.md "CSS Selectors")
