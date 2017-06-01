@@ -96,6 +96,15 @@ Putting our `<span>` tag and the "3 Pomodoros" content on a seprate line will no
   </body>
 </html>
 ```
+Now let's learn how to apply a class attribute to an HTML element. Class attributes are written in the same way as the placeholder and type attributes we learned about earlier. In the opening tag of your HTML `<span>` tag write `class=""`. What goes inside the quotes is a string describing the content. In this case, our class would look something like this:
+```HTML
+<li>
+  <input type="checkbox">
+  Buy workshop supplies
+  <span class="pomodoro-estimate">3 Pomodoros</span>
+</li>
+```
+
 
 #### ID Selector
 
