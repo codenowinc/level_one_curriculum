@@ -1,5 +1,5 @@
 # All About Style
-CSS stands for Cascading Style Sheets. It is a style sheets language that is used to describe the presentation of an HTML document. What this means is if HTML is strictly used to describe the content on your web page, CSS is used strictly to describe how that content looks and is laid out.
+CSS stands for Cascading Style Sheets. It is a style sheets language that is used to describe the presentation of an HTML document. What this means is if HTML is strictly used to describe the content on your web page, CSS is used strictly to describe how that content looks and is positioned on the web page.
 
 CSS can be applied to HTML in a few different ways. We'll be writing our CSS in the separate CSS files your created on day one of the workshop.
 
@@ -36,7 +36,7 @@ In Cloud9 if you type link and then hit the tab key, it will automatically compl
 </head>
 ```
 
-The HTML `<link>` is another example of a self closing tag. We can see that it has an attribute called `href` just like an `<a>` tag. In the quotes, enter the name of the CSS stylesheet you want to link to this HTML file.
+The HTML `<link>` tag is another example of a self closing tag. We can see that it has an attribute called `href` just like an `<a>` tag. In the quotes, enter the name of the CSS stylesheet you want to link to this HTML file.
 
 >Give your students a moment to link their index.css style sheet to their index.html file. They should have a `<link>` tag that looks like the code below.
 
