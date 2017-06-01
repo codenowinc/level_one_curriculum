@@ -105,6 +105,14 @@ Now let's learn how to apply a class attribute to an HTML element. Class attribu
 </li>
 ```
 
+>Give your students some time to apply the pomodoro-estimate class attribute to the first `<span>` tag in their index.html document.
+
+We can now use this class selector in our index.css document to apply style rules to our Pomodoro estimate. Unlike element type selectors, class selectors must be called after a . when used to define a rule. For example, to define a rule using the pomodoro-estimate class we just defined, the code would look like the following:
+```CSS
+.pomodoro-estimate{
+
+}
+```
 
 #### ID Selector
 
