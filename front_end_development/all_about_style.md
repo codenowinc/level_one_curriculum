@@ -23,7 +23,7 @@ This CSS rule should change the heading of your page from its default serif font
 
 >Give your students a moment to type the style rule, and check to see if the styles were applied.
 
-## Linking Files
+## Link Files using `<link>`
 The styles of the heading was not changed, and this is because, currently, there is nothing linking the index.html file to the index.css file. The index.html does not know to apply the CSS rules in index.css. We must link the index.css stylesheet to the index.html file.
 
 We do this by using the `<link>` HTML tag. All link tags go within the `<head>` tags at the top of your HTML document.
