@@ -15,11 +15,11 @@ Each declaration contains a property and a value. The property refers to the cha
 ## Write Your First CSS Rule
 Open the file, index.css and write the following style:
 ```CSS
-h1{
+html{
   font-family: sans-serif;
 }
 ```
-This CSS rule should change the heading of your page from its default serif font, to a sans-serif font. Start your server and refresh your index page, did the style change?
+This CSS rule should change the text on your page from its default serif font, to a sans-serif font. Start your server and refresh your index page, did the style of all of your text change?
 
 >Give your students a moment to type the style rule, and check to see if the styles were applied.
 

@@ -10,6 +10,13 @@ A CSS selector is the part of the CSS rule that selects the content you want to 
 #### Element Type Selector
 This selector can also be referred to simply as a “type selector." Type selectors must match an HTML element of the same name. For example, a selector of `ul` would match the HTML `<ul>` element. A `li` selector would match all the `<li>` elements in an HTML document.
 
+We've already seen an example of applying a CSS style rule using a type selector:
+```CSS
+html{
+  font-family: sans-serif;
+}
+```
+
 #### Class Selector
 
 #### ID Selector
