@@ -9,5 +9,57 @@ You write CSS by defining a series of what are called rules. Here is an example 
 
 Each CSS rule has two major components: a selector that links the CSS rule to a specific part of the HTML document, and a set of one or more declarations.
 
-Each declaration contains a property and a value. The property refers to the characteristic of the selector you want to change and the value refers to how you want to change the property. Your students can find an extensive list of CSS properties at [W3 Schools CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp "W3 Schools CSS Selector Reference").
+Each declaration contains a property and a value. The property refers to the characteristic of the selector you want to change and the value refers to how you want to change the property. You can find an extensive list of CSS properties at [W3 Schools CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp "W3 Schools CSS Selector Reference").
 ![Selector, Property, Value, Declaration](/images/all_about_style/02.png "Selector, Property, Value, Declaration")
+
+## Write Your First CSS Rule
+Open the file, index.css and write the following style:
+```CSS
+h1{
+  font-family: sans-serif;
+}
+```
+This CSS rule should change the heading of your page from its default serif font, to a sans-serif font. Start your server and refresh your index page, did the style change?
+
+>Give your students a moment to type the style rule, and check to see if the styles were applied.
+
+The styles of the heading was not changed, and this is because, currently, there is nothing linking the index.html file to the index.css file. The index.html does not know to apply the CSS rules in index.css. We must link the index.css stylesheet to the index.html file.
+
+We do this by using the `<link>` HTML tag. All link tags go within the `<head>` tags at the top of your HTML document.
+
+In Cloud9 if you type link and then hit the tab key, it will automatically complete the tag. This is shortcut you can use for any HTML tag or CSS style rule.
+```HTML
+<head>
+  <title>Todo List Application</title>
+  <link rel="stylesheet" href="">
+</head>
+```
+
+The HTML `<link>` is another example of a self closing tag. We can see that it has an attribute called `href` just like an `<a>` tag. In the quotes, enter the name of the CSS stylesheet you want to link to this HTML file.
+
+>Give your students a moment to link their index.css style sheet to their index.html file. They should have a `<link>` tag that looks like the code below.
+
+```HTML
+<link rel="stylesheet" href="index.css">
+```
+
+If you've linked your stylesheet to your HTML document properly, you should see the font of your heading change when you refresh your live web page.
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Add first style rule and link index.css to index.html"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
