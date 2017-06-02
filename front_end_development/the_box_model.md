@@ -91,11 +91,11 @@ You should see some distance created all around each of the `<span>` elements.
 
 >View the final JSBin snapshot [here](http://jsbin.com/xetufac/54/edit?html,css,output "Final JSBin Snapshot").
 
-### Inspect Elements
+## Inspect Elements
 When calculating the height and width of HTML elements, remember to take into account the margin, border and padding as well. You can right-click object on a web page and choose the option to "Inspect" to see the box model that wraps it.
 ![CSS Box Model Inspector](/images/the_box_model/03.png "CSS Box Model Inspector")
 
-### Apply the Concept
+## Apply the Concept
 Let's apply what we just learned to our todo list application. Right now our todos and pomodoros estimates on our index page are scrunched together. Let's apply some padding and margin to give them a little more space.
 
 Add the following style rule to your index.css file:
