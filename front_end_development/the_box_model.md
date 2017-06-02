@@ -9,3 +9,7 @@ There are four elements that make up the box that is every HTML element: content
 * **Padding** - An area of space directly around the content. The padding is transparent. It is used to create space between the content and the border.
 * **Border**  - A visible or invisible border that goes around the content and padding of the element.
 * **Margin**  - An area of space directly around the border. The margin is transparent. It is used to create space between the HTML element it wraps around and other HTML elements on the page.
+
+Now, using the [W3 CSS Properties Resource](https://www.w3schools.com/cssref/ "W3 CSS Properties Resource"),identify the CSS properties that can be used to change the padding, border, and margin of an HTML element.
+
+>Give your students a few minutes to find the `padding:`, `border:`, and `margin:` properties.
