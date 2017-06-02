@@ -42,3 +42,29 @@ Now let's see each of these CSS properties in action.
 Here we have a HTML `<div>` element with a class for which we have hardcoded the height and width. What is the width of this `<div>` element? What is the height?
 
 >Give you students a moment to answer the question. Width is 100px. Height is 100px.
+
+Now let's add another `<div>` element to the page and give it similar CSS style rules.
+
+*JSBin HTML*
+```HTML
+<div class="red"></div>
+<div class="green"></div>
+```
+
+*JSBin CSS*
+```CSS
+.red{
+  background-color: #e74c3c;
+  height: 100px;
+  width: 100px;
+}
+
+.green{
+  background-color: #2ecc71;
+  height: 100px;
+  width: 100px;
+}
+```
+
+*JSBin Output*
+![JSBin Output Two](/images/the_box_model/03.png "JSBin Output Two")
