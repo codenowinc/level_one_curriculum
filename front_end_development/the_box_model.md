@@ -21,7 +21,7 @@ Now let's see each of these CSS properties in action.
 >Use [JSBin](http://jsbin.com/ "JSBin") to demonstrate the following concepts. Open up the HTML, CSS, and Output tabs once you navigate to the service. Feel free to delete the HTML document structure tags in the HTML tab, you will not need them.
 
 
-## Content
+### Content
 >Enter the following code into your JSBin tabs.
 
 *JSBin HTML*
