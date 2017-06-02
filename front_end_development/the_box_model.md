@@ -36,16 +36,16 @@ Now let's see each of these CSS properties in action.
 }
 ```
 
-Here we have a HTML `<div>` element with a class for which we have hardcoded the height and width. What is the width of this `<div>` element? What is the height?
+Here we have a HTML `<div>` element with a class for which we have hardcoded the height and width. What is the height of this `<div>` element? What is the width?
 
->Give you students a moment to answer the question. Width is 100px. Height is 100px.
+>Give you students a moment to answer the question. Height is 100px. Width is 100px.
 
 Now let's add another `<div>` element to the page and give it similar CSS style rules.
 
 *JSBin HTML*
 ```HTML
 <div class="red"></div>
-<div class="green"></div>
+<div class="blue"></div>
 ```
 
 *JSBin CSS*
@@ -56,9 +56,33 @@ Now let's add another `<div>` element to the page and give it similar CSS style 
   width: 100px;
 }
 
-.green{
-  background-color: #2ecc71;
+.blue{
+  background-color: #3498db;
   height: 100px;
   width: 100px;
 }
 ```
+
+Now we see we have two HTML `<div>` elements. What is the height of the blue `<div>` element? What is the width?
+
+>Give you students a moment to answer the question. Height is 100px. Width is 100px.
+
+Now the colored portion of the two boxes we see on the page can be considered the **content** portion of the box model. Let's say we wanted to add dark red border to the red `<div>`. We would do that by adding the following CSS to our `.red` class selector.
+
+```CSS
+border: 10px solid #c0392b;
+```
+
+What are the new height and width measurements of the red `<div>`? Why?
+
+>Give you students a moment to answer the question. Height is 110px. Width is 110px.
+
+Now let's add a border to our blue `<div>` by adding the following code to the `.blue` class selector in the CSS.
+
+```CSS
+border: 10px solid #2980b9;
+```
+
+What are the new height and width measurements of the red `<div>`? Why?
+
+>Give you students a moment to answer the question. Height is 110px. Width is 110px.
