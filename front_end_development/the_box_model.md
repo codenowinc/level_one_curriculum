@@ -62,25 +62,33 @@ Now let's add another `<span>` element to the page and give it similar CSS style
 
 Now we have two HTML `<span>` elements. The "Box 1" and "Box 2" text inside each of them is considered the content.
 
-
-```CSS
-  border: 10px solid #C0392B;
-```
-
-What are the new height and width measurements of the red `<span>`? Why?
-
->Give you students a moment to answer the question. Height is 110px. Width is 110px.
-
-Now let's add a border to our blue `<span>` by adding the following code to the `.blue` class selector in the CSS.
-```CSS
-border: 10px solid #2980B9;
-```
-
-What are the new height and width measurements of the red `<span>`? Why?
-
->Give you students a moment to answer the question. Height is 110px. Width is 110px.
-
-But it looks like we skipped padding! Let's see what happens if we give our red `<span>` a padding of 5px. Add the following code to the `.red` class selector in the CSS.
+### Padding
+Now let's see how padding affects our two `<span>` elements. In the CSS, add the following line of code to your `.box-one` and `box-two` class selectors respectively.
 ```CSS
 padding: 5px;
 ```
+
+What happens when the CSS padding property is added?
+
+>Give you students a moment to answer the question. Space is added around the content, but the background color expands as well as it is still the element that is getting larger.
+
+### Border
+Now it's time to add a border to each `<span>` element. In the CSS, add the following line of code to your `.box-one` and `box-two` class selectors respectively.
+```CSS
+border: 2px solid #2C3E50;
+```
+
+We now see a thin dark line bordering each of the `<span>` elements.
+
+
+### Margin
+Finally it's time to add margin. In the CSS, add the following line of code to your `.box-one` and `box-two` class selectors respectively.
+```CSS
+margin: 5px;
+```
+
+You should see some distance created all around each of the `<span>` elements.
+
+<a class="jsbin-embed" href="http://jsbin.com/xetufac/54/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?4.0.2"></script>
+
+### Calculating Height and Width
