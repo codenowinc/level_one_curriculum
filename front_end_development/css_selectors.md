@@ -18,7 +18,7 @@ html{
 ```
 
 #### Class Selector
-The class selector is the selector you will probably use most when writing CSS. It’s declared with a dot preceding a string of one or more characters. The class selector also matches all HTML elements on the page that have their class attribute set to the same value as the class, minus the dot. Let's look at an example.
+The class selector is the selector you will probably use most when writing CSS. It’s declared with a dot or period preceding a string of one or more characters. The class selector also matches all HTML elements on the page that have their class attribute set to the same value as the class, minus the dot. Let's look at an example.
 
 Let's say we want to highlight the Pomodoro estimates for each task, so they stand out from the rest of the information. We want every Pomodoro estimate to look the same as the next, but different from everything else on the page.
 
@@ -134,9 +134,38 @@ If we refresh our live web page, we see that the CSS style rules have only been 
 
 >Give you students some time to apply the `pomodoro-estimate` class to all of the `<span>` tags.
 
-A class can be applied to as many HTML tags as you need.
+A class can be applied to as many HTML tags as needed.
 
 #### ID Selector
+An ID selector is declared using a hash, or pound symbol (#) preceding a string of characters. This selector matches an HTML element that has an ID attribute with the same value as that of the selector.
+
+Let's practice by adding the following id attribute to the `<<input type="submit"> HTML element in our index.html file.
+```HTML
+<input id="add-new-todo-button" type="submit" value="Add todo">
+```
+
+Like class attributes, the name of an id attribute should be descriptive of the content. Unlike a class though, an id should only be used on one single piece of content. This is what is known as best practice. In the above example, the id `add-new-todo-button` should not be used anywhere else in your HTML.
+
+Now let's apply some CSS style rules to this `<input>` element using its id.
+```CSS
+#add-new-todo-button{
+  font-size: 20px;
+  text-align: center;
+  color: #FFF;
+  outline: none;
+  border-style: none;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 2px 2px 1px #90A4AE;
+  display: block;
+  background-color: #03A9F4;
+  margin-top: 10px;
+}
+```
+
+Once again, feel free to play around with the CSS properties. You only learn by trying whatever comes to mind!
+
+>Give your students some time to play with the styles.
 
 #### Pseudo Class Selector
 
