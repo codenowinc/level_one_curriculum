@@ -1,4 +1,4 @@
-# CSS Selectors
+# Selectors
 A CSS selector is the part of the CSS rule that selects the content you want to style. There are many CSS selectors, but for today, we are going to focus on the following:
 
 ## Selectors
