@@ -65,4 +65,5 @@ In this README, you will find a table of contents linking to a series of guides 
   * [The Box Model](/front_end_development/the_box_model.md "The Box Model")
   * [Block vs. Inline Elements](/front_end_development/block_vs_inline_elements.md "Block vs. Inline Elements")
   * [CSS Layout Properties](/front_end_development/css_layout_properties.md "CSS Layout Properties")
+  * [Final Styles](/front_end_development/final_styles.md "Final Styles")
 
