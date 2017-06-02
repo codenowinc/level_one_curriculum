@@ -130,6 +130,12 @@ Feel free to explore these style properties and play around with them.
 
 >Give your students some time to play around with the CSS properties.
 
+If we refresh our live web page, we see that the CSS style rules have only been applied to a single Pomodoro estimate. In order to apply the styles to all of our Pomodoro estimates, we need not write more CSS, but apply the same class attribute to all of the `<span>` elements wrapping our Pomodoro estimates in our index.html document.
+
+>Give you students some time to apply the `pomodoro-estimate` class to all of the `<span>` tags.
+
+A class can be applied to as many HTML tags as you need.
+
 #### ID Selector
 
 #### Pseudo Class Selector
