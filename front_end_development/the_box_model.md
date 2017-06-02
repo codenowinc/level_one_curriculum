@@ -91,5 +91,36 @@ You should see some distance created all around each of the `<span>` elements.
 
 >View the final JSBin snapshot [here](http://jsbin.com/xetufac/54/edit?html,css,output "Final JSBin Snapshot").
 
-**Note:** When calculating the height and width of HTML elements, remember to take into account the margin, border and padding as well. You can right-click object on a web page and choose the option to "Inspect" to see the box model that wraps it.
+### Inspect Elements
+When calculating the height and width of HTML elements, remember to take into account the margin, border and padding as well. You can right-click object on a web page and choose the option to "Inspect" to see the box model that wraps it.
 ![CSS Box Model Inspector](/images/the_box_model/03.png "CSS Box Model Inspector")
+
+### Apply the Concept
+Let's apply what we just learned to our todo list application. Right now our todos and pomodoros estimates on our index page are scrunched together. Let's apply some padding and margin to give them a little more space.
+
+Add the following style rule to your index.css file:
+```CSS
+li{
+  padding: 5px;
+  margin-bottom:10px;
+}
+```
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Add spacing to todo in list on todo index page"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
