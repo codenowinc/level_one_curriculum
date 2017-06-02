@@ -61,7 +61,7 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Cascading Style Sheets**
   * [All About Style](/front_end_development/all_about_style.md "All About Style")
-  * [Selectors](/front_end_development/_selectors.md "Selectors")
+  * [Selectors](/front_end_development/selectors.md "Selectors")
   * [The Box Model](/front_end_development/the_box_model.md "The Box Model")
   * [Block vs. Inline Elements](/front_end_development/block_vs_inline_elements.md "Block vs. Inline Elements")
   * [Layout Properties](/front_end_development/layout_properties.md "Layout Properties")
