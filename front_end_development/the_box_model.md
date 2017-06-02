@@ -70,7 +70,7 @@ Now we see we have two HTML `<div>` elements. What is the height of the blue `<d
 Now the colored portion of the two boxes we see on the page can be considered the **content** portion of the box model. Let's say we wanted to add dark red border to the red `<div>`. We would do that by adding the following CSS to our `.red` class selector.
 
 ```CSS
-  border: 10px solid #c0392b;
+  border: 10px solid #C0392B;
 ```
 
 What are the new height and width measurements of the red `<div>`? Why?
@@ -80,7 +80,7 @@ What are the new height and width measurements of the red `<div>`? Why?
 Now let's add a border to our blue `<div>` by adding the following code to the `.blue` class selector in the CSS.
 
 ```CSS
-border: 10px solid #2980b9;
+border: 10px solid #2980B9;
 ```
 
 What are the new height and width measurements of the red `<div>`? Why?
