@@ -13,3 +13,24 @@ There are four elements that make up the box that is every HTML element: content
 Now, using the [W3 CSS Properties Resource](https://www.w3schools.com/cssref/ "W3 CSS Properties Resource"),identify the CSS properties that can be used to change the padding, border, and margin of an HTML element.
 
 >Give your students a few minutes to find the `padding:`, `border:`, and `margin:` properties.
+
+It is important to note that changing the padding, border, and margin of and HTML element will affect that elements height and width even if it may not look any different.
+
+Now let's see each of these CSS properties in action.
+
+>Use [JSBin](http://jsbin.com/ "JSBin") to demonstrate the following concepts. Open up the HTML, CSS, and Output tabs once you navigate to the service. Feel free to delete the HTML document structure tags in the HTML tab, you will not need them.
+
+>Enter the following code into your JSBin tabs.
+*JSBin HTML*
+```HTML
+<div class="red"></div>
+```
+*JSBin CSS*
+```CSS
+.red{
+  background-color: #e74c3c;
+  height: 100px;
+  width: 100px;
+}
+```
+
