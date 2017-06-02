@@ -36,9 +36,6 @@ Now let's see each of these CSS properties in action.
 }
 ```
 
-*JSBin Output*
-![JSBin Output One](/images/the_box_model/02.png "JSBin Output One")
-
 Here we have a HTML `<div>` element with a class for which we have hardcoded the height and width. What is the width of this `<div>` element? What is the height?
 
 >Give you students a moment to answer the question. Width is 100px. Height is 100px.
@@ -65,6 +62,3 @@ Now let's add another `<div>` element to the page and give it similar CSS style 
   width: 100px;
 }
 ```
-
-*JSBin Output*
-![JSBin Output Two](/images/the_box_model/03.png "JSBin Output Two")
