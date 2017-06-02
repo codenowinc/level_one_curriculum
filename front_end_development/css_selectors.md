@@ -167,6 +167,36 @@ Once again, feel free to play around with the CSS properties. You only learn by 
 
 >Give your students some time to play with the styles.
 
-#### Pseudo Class Selector
+#### Pseudo-Class Selector
+A pseudo-class uses a colon character to identify a pseudo-state that an element might be in—for example, the state of being hovered, or the state of being clicked or activated. Sometimes, we want a certain style rule applied to an element only when something specific has happened to that element. For example, wouldn't it be cool to make the button we just styled look like it was being pushed down when it was clicked? We can!
 
-[CSS Selectors Resource](https://www.sitepoint.com/web-foundations/css-selectors/ "CSS Selectors Resource")
+Use a psuedo-class selector by using the element type, class, or id (however you're referring to the HTML element) and a colon follwed by the action or state of the element during which you want the style applied.
+```CSS
+#add-new-todo-button:active{
+  box-shadow: 1px 1px 1px #90A4AE;
+}
+```
+
+Now refresh your web browser and see what happens when you click the "Add todo" button!
+
+>Give your student to experiment with the pseudo-selector and test the button.
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Add various CSS selectors"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
+
