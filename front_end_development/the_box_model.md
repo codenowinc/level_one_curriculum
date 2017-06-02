@@ -89,6 +89,6 @@ margin: 5px;
 
 You should see some distance created all around each of the `<span>` elements.
 
-<a class="jsbin-embed" href="http://jsbin.com/xetufac/54/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?4.0.2"></script>
+>View the final JSBin snapshot [here](http://jsbin.com/xetufac/54/edit?html,css,output "Final JSBin Snapshot")
 
 ### Calculating Height and Width
