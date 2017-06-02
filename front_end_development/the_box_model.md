@@ -36,3 +36,6 @@ Now let's see each of these CSS properties in action.
 }
 ```
 
+Here we have a HTML `<div>` element with a class for which we have hardcoded the height and width. What is the width of this `<div>` element? What is the height?
+
+>Give you students a moment to answer the question. Width is 100px. Height is 100px.
