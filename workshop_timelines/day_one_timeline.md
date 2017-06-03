@@ -30,8 +30,13 @@
   * [Connect GitHub to Cloud9](https://public.3.basecamp.com/p/bxEX5vz6goaywUhTi9NdtsoA "Connect GitHub to Cloud9")
 
 **13:30 - 14:00 - P7**
+  * [Create your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create your First GitHub Repository")
+  * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
 **14:00 - 14:30 - P8**
+  * [What is the Command Line?](/the_command_line_git_and_github/what_is_the_command_line.md "What is the Command Line?")
+  * [Navigate Through the Command Line](/the_command_line_git_and_github/navigate_through_the_command_line.md "Navigate Through the Command Line")
+  * [Create Files In the Command Line](/the_command_line_git_and_github/create_files_in_the_command_line.md "Create Files In the Command Line")
 
 **14:30 - 15:00 - P9**
 
