@@ -39,12 +39,11 @@
   * [Create Files In the Command Line](/the_command_line_git_and_github/create_files_in_the_command_line.md "Create Files In the Command Line")
 
 **14:30 - 15:00 - P9**
-  * [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
   * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
   * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
 
-**15:00 - 15:30 - P10**
-  * Overflow
+**15:00 - 15:30 - P10** - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
   * [HTML Starts With Content](/front_end_development/html_starts_with_content.md "HTML Starts With Content")
+  * [HTML Tags and Basic Document Structure](/front_end_development/html_tags_and_basic_document_structure.md "HTML Tags and Basic Document Structure")
 
 **15:30 - 16:00 - Clean Up & Wrap Up**
