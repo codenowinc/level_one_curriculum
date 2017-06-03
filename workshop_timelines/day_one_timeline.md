@@ -25,9 +25,9 @@
 **12:00 - 13:00 - Lunch**
 
 **13:00 - 13:30 - P6**
-  *[Create Your GitHub Account](https://public.3.basecamp.com/p/Tnu9rGa3snBHYh45rrpsUGbF "Create Your GitHub Account")
-  *[Create Your Cloud9 Account](https://public.3.basecamp.com/p/M3JCNM9Zok2UzDZhVGfs2bYH "Create Your Cloud9 Account")
-  *[Connect GitHub to Cloud9](https://public.3.basecamp.com/p/bxEX5vz6goaywUhTi9NdtsoA "Connect GitHub to Cloud9")
+  * [Create Your GitHub Account](https://public.3.basecamp.com/p/Tnu9rGa3snBHYh45rrpsUGbF "Create Your GitHub Account")
+  * [Create Your Cloud9 Account](https://public.3.basecamp.com/p/M3JCNM9Zok2UzDZhVGfs2bYH "Create Your Cloud9 Account")
+  * [Connect GitHub to Cloud9](https://public.3.basecamp.com/p/bxEX5vz6goaywUhTi9NdtsoA "Connect GitHub to Cloud9")
 
 **13:30 - 14:00 - P7**
 
