@@ -2,10 +2,8 @@
 
 ### Required Materials
   * Spaghetti
-  * String (breakable by hand)
   * Marshmallows (standard size)
   * Masking tape
-  * Paper lunch bags
   * Measuring tape
 
 ### Pre-Activity Setup

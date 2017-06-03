@@ -1,6 +1,6 @@
 # Examples of Successful Companies and the Problems That Started Them
 
-### ***[Keynote]( "Solve a Problem You Care About - Keynote") | [PowerPoint]( "Solve a Problem You Care About - PowePoint")***
+### ***[Keynote](https://www.dropbox.com/s/bz29c08i152plqo/01%20-%20Keynote%20-%20Solve%20a%20Problem%20You%20Care%20About.key?dl=0 "Solve a Problem You Care About - Keynote") | [PowerPoint](https://www.dropbox.com/s/m82ms4mzb0p6p1k/01%20-%20PowerPoint%20-%20Solve%20a%20Problem%20You%20Care%20About.pptx?dl=0 "Solve a Problem You Care About - PowePoint")***
 
 Ideas for great products don't just drop out of the sky. There aren't a few people who are predestined to come up with brilliant solutions that turn into massive companies. But there are people who have learned to identify the problems in their life as opportunities. Opportunities to make their lives better, and the lives of all the other people around them facing a similar problem.
 
