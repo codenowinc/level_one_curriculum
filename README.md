@@ -15,7 +15,7 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ### Product Development
   * **How to Find a Meaningful Problem to Solve**
-    * [Solve A Problem You Care About](/product_development/solve_a_problem_you_care_about.md "Solve A Problem You Care About")
+    * [Solve a Problem You Care About](/product_development/solve_a_problem_you_care_about.md "Solve a Problem You Care About")
     * [Examples of Successful Companies and the Problems That Started Them](/product_development/examples_of_companies_and_the_problems_that_started_them.md "Examples of Successful Companies and the Problems That Started Them")
     * [Marshmallow Challenge Activity](/product_development/marshmallow_challenge_activity.md "Marshmallow Challenge Activity")
 
