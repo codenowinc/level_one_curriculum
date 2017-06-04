@@ -71,3 +71,15 @@ Understanding the difference between block-level and inline elements is crucial 
 >If there is time, feel free to go into the different ways in which block-level elements can be positioned and resized versus inline elements. You can use JSBin to demonstrate how block-level elements can be given a fixed height and width but inline elements can not.
 
 ## The CSS `display:` Property
+It is important to note that you can change the the default display level of an element by using the `display:` property in CSS and providing one of the three following values: inline, block, and **inline-block**.
+
+>Explain the `inline-block` value to your students. Show them a demonstration in JSBin. Have them change the display property for the heading on their show page, so it appears in line with the checkbox instead of on the line underneath.
+
+```CSS
+h2{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 32px;
+  margin: 20px 0px;
+}
+```
