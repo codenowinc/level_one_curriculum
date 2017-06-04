@@ -177,7 +177,7 @@ input[type="text"], input[type="number"]{
 </html>
 ```
 
-***index.css***
+***show.css***
 ```CSS
 body{
  color: #424242;
