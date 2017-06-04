@@ -67,4 +67,6 @@ var button_content = document.querySelector('div');
 ```
 
 ### Step Two
+Next we need to tell the page to listen for when th
+button_content.addEventListener('click', updateName);
 
