@@ -56,3 +56,13 @@ div{
 >Give your students a moment to copy the code over to the appropriate tabs.
 
 You should have a purple button with the text "Player 1: NAME" in your output tab.
+
+Now let's write some JavaScript in our JavaScript tab in JSBin to change "NAME" to whatever name you actually want the button to display.
+
+### Step One
+In order to change the default "NAME" text to a name we actually want displayed, we need a way of asking the user to enter that information and we need a way of storing it. The first line of JavaScript we're going to right is going to define a variable that stores the `<div>` tag in which we want to change "NAME" to an actual name.
+
+```JavaScript
+var button_content = document.querySelector('div');
+```
+
