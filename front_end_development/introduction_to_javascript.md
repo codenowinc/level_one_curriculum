@@ -66,7 +66,12 @@ In order to change the default "NAME" text to a name we actually want displayed,
 var button_content = document.querySelector('div');
 ```
 
+>Take this time to explain the concept of variables, scope, and storing various kinds of information.
+
 ### Step Two
-Next we need to tell the page to listen for when th
+Next, we need the User to be able to interact with the button and for the page to listen for the interaction. We want the user to be able to click the button, and get a prompt to enter in the actual name they want to replace "NAME" with. The first step in implementing this functionality is writing some code that tells the page to listen for the user's click of the button.
+
+```JavaScript
 button_content.addEventListener('click', updateName);
+```
 
