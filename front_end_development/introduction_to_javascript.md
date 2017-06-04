@@ -66,3 +66,5 @@ In order to change the default "NAME" text to a name we actually want displayed,
 var button_content = document.querySelector('div');
 ```
 
+### Step Two
+
