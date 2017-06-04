@@ -2,7 +2,7 @@
 
 Although we never use HTML to affect the layout of content on our page, all HTML elements fall into two broad display categories. Block level elements and Inline elements. Every tag in HTML is predefined as a block level element or an inline element.
 
-### Block Level Elements
+## Block Level Elements
 Block level elements take up the entire width of the line they're on, regardless of the amount of content within the tag. A block level element can't have anything come before or after it on the same line. they can contain other block and inline HTML elements.
 
 Here are some HTML elements that are block level by default:
