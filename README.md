@@ -66,6 +66,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Block vs. Inline Elements](/front_end_development/block_vs_inline_elements.md "Block vs. Inline Elements")
   * [CSS Layout Properties](/front_end_development/css_layout_properties.md "CSS Layout Properties")
   * [Front End Mockup Example Code](/front_end_development/front_end_mockup_example_code.md "Front End Mockup Example Code")
+  * [DRYing Up the CSS](/front_end_development/drying_up_the_css.md "DRYing Up the CSS")
 
 * **Interactivity**
 
