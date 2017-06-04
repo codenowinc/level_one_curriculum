@@ -75,3 +75,18 @@ Next, we need the User to be able to interact with the button and for the page t
 button_content.addEventListener('click', updateName);
 ```
 
+Here, we are telling JavaScript to register if the `<div>` is clicked. If it is clicked, JavaScript should execute a function called updateName. But what is updateName?
+
+### Step Three
+updateName is a function that we write. It is where we define what should happen when the user clicks the `<div>`. In this case, we want a prompt to show up for the user to enter in the actual name. We then want to save what they enter, and insert that name where it currently says "NAME" in the HTML.
+
+```JavaScript
+function updateName() {
+  var name = prompt('Enter a new name');
+  button_content.textContent = 'Player 1: ' + name;
+}
+```
+
+Try it out!
+
+>View the final JSBin snapshot [here](http://jsbin.com/pacatop/6/edit?html,css,js,output "Final JSBin Snapshot").
