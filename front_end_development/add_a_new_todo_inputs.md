@@ -1,4 +1,4 @@
-# Add a New Todo
+# Add a New Todo Inputs
 The index page currently lists all of the todos we have written in our index.html files, but what if we want to add a new todo?
 
 HTML isn't just for tagging content that is displayed to the user through the webpage, but can be used to accept content from the user as well.

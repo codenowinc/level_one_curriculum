@@ -56,7 +56,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * [HTML Starts With Content](/front_end_development/html_starts_with_content.md "HTML Starts With Content")
   * [HTML Tags and Basic Document Structure](/front_end_development/html_tags_and_basic_document_structure.md "HTML Tags and Basic Document Structure")
   * [Different Tags for Different Content](/front_end_development/different_tags_for_different_content.md "Different Tags for Different Content")
-  * [Add a New Todo](/front_end_development/add_a_new_todo.md "Add a New Todo")
+  * [Add a New Todo Inputs](/front_end_development/add_a_new_todo_inputs.md "Add a New Todo Inputs")
   * [The Show Page Activity](/front_end_development/the_show_page_activity.md "The Show Page Activity")
 
 * **Cascading Style Sheets**
@@ -69,6 +69,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * [DRYing Up the CSS](/front_end_development/drying_up_the_css.md "DRYing Up the CSS")
 
 * **Interactivity**
-  * ['Adding' a Todo](/front_end_development/adding_a_todo.md "'Adding' a Todo")
-  * [Marking a Todo Complete](/front_end_development/marking_a_todo_complete.md "Marking a Todo Complete")
+  * [Introduction to JavaScript](/front_end_development/introduction_to_javascript.md "Introduction to JavaScript")
+  * ['Add' a Todo](/front_end_development/add_a_todo.md "'Add' a Todo")
+  * [Mark a Todo Complete](/front_end_development/mark_a_todo_complete.md "Mark a Todo Complete")
 
