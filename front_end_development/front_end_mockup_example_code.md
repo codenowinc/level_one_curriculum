@@ -150,3 +150,8 @@ input[type="text"], input[type="number"]{
   box-shadow: 1px 1px 1px #90A4AE;
 }
 ```
+**>Have your students use everything they have learned up until this point to link the show.css stylesheet to their show.html file and apply CSS styles to the page. The example code can be found below.**
+
+***show.html***
+```HTML
+```
