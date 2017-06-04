@@ -83,3 +83,23 @@ h2{
   margin: 20px 0px;
 }
 ```
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Make show.html heading inline-block"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
+
