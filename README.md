@@ -69,4 +69,6 @@ In this README, you will find a table of contents linking to a series of guides 
   * [DRYing Up the CSS](/front_end_development/drying_up_the_css.md "DRYing Up the CSS")
 
 * **Interactivity**
+  * ['Adding' a Todo](/front_end_development/adding_a_todo.md "'Adding' a Todo")
+  * [Marking a Todo Complete](/front_end_development/marking_a_todo_complete.md "Marking a Todo Complete")
 
