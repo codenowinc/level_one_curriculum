@@ -22,3 +22,37 @@ So what happens when you load a web page in a browser? When you load a web page 
 The JavaScript is executed by the browser's JavaScript engine, after the HTML and CSS have been assembled and put together into a web page. This ensures that the structure and style of the page are already in place by the time the JavaScript starts to run.
 
 This is a good thing, as a very common use of JavaScript is to dynamically modify HTML and CSS to update a user interface, via the Document Object Model API (as mentioned above). If the JavaScript loaded and tried to run before the HTML and CSS was there to affect, then errors would occur.
+
+## Example
+Let's try to write some JavaScript together! Open up [JSBin](http://jsbin.com/ "JSBin") and open the HTML, CSS, JavaScript, and Output tabs.
+
+>Give your students a moment to navigate back to JSBin and open the appropriate tabs.
+
+Cut and paste the following code into your HTML and CSS tabs respectively:
+
+*JSBin HTML*
+```HTML
+<div>Player 1: NAME</div>
+```
+
+*JSBin CSS*
+```CSS
+div{
+  font-family: 'helvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid rgba(0,0,200,0.6);
+  background: rgba(0,0,200,0.3);
+  color: rgba(0,0,200,0.6);
+  box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+  border-radius: 10px;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor:pointer;
+}
+```
+
+>Give your students a moment to copy the code over to the appropriate tabs.
+
+You should have a purple button with the text "Player 1: NAME" in your output tab.
