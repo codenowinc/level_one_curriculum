@@ -70,6 +70,5 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Interactivity**
   * [Introduction to JavaScript](/front_end_development/introduction_to_javascript.md "Introduction to JavaScript")
-  * ['Add' a Todo](/front_end_development/add_a_todo.md "'Add' a Todo")
   * [Mark a Todo Complete](/front_end_development/mark_a_todo_complete.md "Mark a Todo Complete")
-
+  * ['Add' a Todo](/front_end_development/add_a_todo.md "'Add' a Todo")
