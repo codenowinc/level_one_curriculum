@@ -70,4 +70,4 @@ Understanding the difference between block-level and inline elements is crucial 
 
 >If there is time, feel free to go into the different ways in which block-level elements can be positioned and resized versus inline elements. You can use JSBin to demonstrate how block-level elements can be given a fixed height and width but inline elements can not.
 
-
+## The CSS `display:` Property
