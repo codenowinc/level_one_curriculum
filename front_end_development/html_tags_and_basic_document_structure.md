@@ -47,7 +47,7 @@ Let's try updating the content between our title tags. Enter a short description
 #### `<body></body>`
 The `<body></body>` element contains the entire content of a webpage. It must be the second element inside of the parent `<html></html>` element, following only the `<head></head>` element.
 
-Now that we've gotten a brief introduction to what each of these tags is for, let's move all of our contentinto our `<body></body>` tag.
+Now that we've gotten a brief introduction to what each of these tags is for, let's move all of our content into our `<body></body>` tag.
 
 >Give your students a minute to move their content into the body tags. Their code should look similar to the index.html file below.
 
