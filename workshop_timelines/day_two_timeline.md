@@ -1,4 +1,4 @@
-# Day One Timeline
+# Day Two Timeline
 **9:00 - 9:30 - Welcome & Icebreaker**
 
 **9:30 - 10:00 - P1**
@@ -40,4 +40,3 @@
   * [Mark a Todo Complete](/front_end_development/mark_a_todo_complete.md "Mark a Todo Complete")
 
 **15:30 - 16:00 - Clean Up & Wrap Up**
-# Day Two Timeline
