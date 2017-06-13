@@ -81,3 +81,6 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Ruby**
   * [Try Ruby Tutorial](http://tryruby.org/levels/1/challenges/0 "Try Ruby Tutorial")
+
+* **Ruby on Rails**
+  * [Welcome to Ruby on Rails](/back_end_development/welcome_to_ruby_on_rails.md "Welcome to Ruby on Rails")
