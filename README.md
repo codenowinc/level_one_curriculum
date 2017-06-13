@@ -47,7 +47,6 @@ In this README, you will find a table of contents linking to a series of guides 
 
 ### Account Setup
   * **Repositories and Workspaces**
-
     * [Create Your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create Your First GitHub Repository")
     * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
     * [Create a GitHub Repository for Your Rails Application](/account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
