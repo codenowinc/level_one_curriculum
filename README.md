@@ -46,11 +46,11 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
 
 ### Workspace Setup
-  * **Weekend One Repositories and Workspaces**
+  * **Weekend One Repository and Workspace
     * [Create Your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create Your First GitHub Repository")
     * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
-  * **Weekend Two Repositories and Workspaces**
+  * **Weekend Two Repository and Workspace**
     * [Create a GitHub Repository for Your Rails Application](/account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
     * [Create a Cloud9 Ruby on Rails Workspace](/account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
 
