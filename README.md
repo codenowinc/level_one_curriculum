@@ -45,14 +45,21 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
     * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
 
-### Workspace Setup
-  * **Weekend One Repository and Workspace
-    * [Create Your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create Your First GitHub Repository")
-    * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
+### Workspace and Account Setup
+  * **Weekend One**
+    * [Create Your GitHub Account](https://public.3.basecamp.com/p/Tnu9rGa3snBHYh45rrpsUGbF "Create Your GitHub Account")
+    * [Create Your Cloud9 Account](https://public.3.basecamp.com/p/M3JCNM9Zok2UzDZhVGfs2bYH "Create Your Cloud9 Account")
+    * [Connect GitHub to Cloud9](https://public.3.basecamp.com/p/bxEX5vz6goaywUhTi9NdtsoA "Connect GitHub to Cloud9")
+    * [Create Your First GitHub Repository](/workspace_and_account_setup/create_your_first_github_repository.md "Create Your First GitHub Repository")
+    * [Create Your First Cloud9 Workspace](/workspace_and_account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
 
-  * **Weekend Two Repository and Workspace**
-    * [Create a GitHub Repository for Your Rails Application](/account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
-    * [Create a Cloud9 Ruby on Rails Workspace](/account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
+  * **Weekend Two**
+    * [Create a GitHub Repository for Your Rails Application](/workspace_and_account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
+    * [Create a Cloud9 Ruby on Rails Workspace](/workspace_and_account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
+    * [Initialize Your Application as a Git Repository](/workspace_and_account_setup/initialize_your_application_as_a_git_repository.md "Initialize Your Application as a Git Repository")
+    * [Create Your Heroku Account](https://public.3.basecamp.com/p/bFrmQqjKSJuoYBxHhye8NsLr "Create Your Heroku Account")
+    * [Deploy to Heroku](/workspace_and_account_setup/deploy_to_heroku.md "Deploy to Heroku")
+
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
@@ -84,3 +91,11 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Ruby on Rails**
   * [Welcome to Ruby on Rails](/back_end_development/welcome_to_ruby_on_rails.md "Welcome to Ruby on Rails")
+  * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
+  * [Model, View, Controller](/back_end_development/model_view_controller.md "Model, View, Controller")
+  * [Create Your First Controller](/back_end_development/create_your_first_controller.md "Create Your First Controller")
+  * [Follow the Path](/back_end_development/follow_the_path.md "Follow the Path")
+  * [Route, Controller, Action, View](/back_end_development/route_controller_action_view.md "Route, Controller, Action, View")
+  * [The Rails View File](/back_end_development/the_rails_view_file.md "The Rails View File")
+  * [Make Your HTML Smart](/back_end_development/make_your_html_smart.md "Make Your HTML Smart")
+  
