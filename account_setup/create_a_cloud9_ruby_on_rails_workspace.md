@@ -12,4 +12,4 @@
   ![Cloud9 creating your new workspace](/images/create_a_cloud9_ruby_on_rails_workspace/04.png "Cloud9 creating your new workspace")
 
 **5. After the workspace is created, you will see a familiar screen, but with more files in the file tree on the left side of the window. Cloud9 has already created the skeleton of your Rails application for you!**
-  ![Your new Rails application](/images/create_a_cloud9_ruby_on_rails_workspace/05.png "Your new Rails application")a
+  ![Your new Rails application](/images/create_a_cloud9_ruby_on_rails_workspace/05.png "Your new Rails application")
