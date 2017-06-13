@@ -45,12 +45,15 @@ In this README, you will find a table of contents linking to a series of guides 
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
     * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
 
-### The Command Line, Git, and GitHub
-  * **The Command Line**
+### Account Setup
+  * **Repositories and Workspaces**
     * [Create Your First GitHub Repository](/account_setup/create_your_first_github_repository.md "Create Your First GitHub Repository")
     * [Create Your First Cloud9 Workspace](/account_setup/create_your_first_cloud9_workspace.md "Create Your First Cloud9 Workspace")
     * [Create a GitHub Repository for Your Rails Application](/account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
     * [Create a Cloud9 Ruby on Rails Workspace](/account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
+
+  * **Test**
+    ** Test Test
 
 ### Front End Development - [CodeNow Sample Todo Application - Front End Mockup Codebase](https://github.com/CodeNowOrg/todo_app_mockup "CodeNow Sample Todo Application - Front End Mockup Codebase")
 
