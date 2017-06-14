@@ -56,7 +56,6 @@ In this README, you will find a table of contents linking to a series of guides 
   * **Weekend Two**
     * [Create a GitHub Repository for Your Rails Application](/workspace_and_account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
     * [Create a Cloud9 Ruby on Rails Workspace](/workspace_and_account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
-    * [Initialize Your Application as a Git Repository](/workspace_and_account_setup/initialize_your_application_as_a_git_repository.md "Initialize Your Application as a Git Repository")
     * [Create Your Heroku Account](https://public.3.basecamp.com/p/bFrmQqjKSJuoYBxHhye8NsLr "Create Your Heroku Account")
     * [Deploy to Heroku](/workspace_and_account_setup/deploy_to_heroku.md "Deploy to Heroku")
 
@@ -98,4 +97,3 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Route, Controller, Action, View](/back_end_development/route_controller_action_view.md "Route, Controller, Action, View")
   * [The Rails View File](/back_end_development/the_rails_view_file.md "The Rails View File")
   * [Make Your HTML Smart](/back_end_development/make_your_html_smart.md "Make Your HTML Smart")
-  
