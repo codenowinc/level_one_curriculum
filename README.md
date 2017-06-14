@@ -56,6 +56,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * **Weekend Two**
     * [Create a GitHub Repository for Your Rails Application](/workspace_and_account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
     * [Create a Cloud9 Ruby on Rails Workspace](/workspace_and_account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
+    * [Push Your Application to GitHub](/workspace_and_account_setup/push_your_application_to_github.md "Push Your Application to GitHub")
     * [Create Your Heroku Account](https://public.3.basecamp.com/p/bFrmQqjKSJuoYBxHhye8NsLr "Create Your Heroku Account")
     * [Deploy to Heroku](/workspace_and_account_setup/deploy_to_heroku.md "Deploy to Heroku")
 
