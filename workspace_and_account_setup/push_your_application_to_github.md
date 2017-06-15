@@ -1,19 +1,35 @@
 # Push Your Application to GitHub
 
-Just like we did during weekend one, we will be pushing our code to another GitHub repository. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+## Initialize the repository with Git
+Before you make any more changes to your Rails application, you should start tracking it with Git. Does anyone remember what Git is and why we use it?
 
-Use the following commands to make your first commit for this project.
+>Give your students a moment to volunteer an answer. If no one volunteers, give a brief explanation of Git and what it is mainly used for.
 
-```shell
-git add -A
+So let's start tracking all of the changes we make to our code using Git. First, we tell Git that we want it to start tracking our app directory.
+
+Enter the following command into the command line:
+```Shell
+$ git init
 ```
 
-```shell
-git commit -m "Initial commit"
+Next, you need to tell Git what files were changed and provide a brief description of the changes. Since this is the very first commit you are making for this application, all the files have changed since they are all new.
+
+Enter the following two commands into the command line:
+```Shell
+$ git add -A
+$ git commit -m “Initial commit”
 ```
 
-```shell
-git push
-```
+Finally, you want to back your code up to the cloud, so you don't lose it, even if your Cloud9 workspace gets deleted or disappears for some reason. Remember that tab you had to leave open when you were setting up your GitHub repository? It's time to use it now.
 
-Now check your repository on GitHub to see if the changes were successfully pushed.
+Go to that tab and click the "Copy to clipboard" button on the right side of the page, under the **"...or push to an existing repository from the command line"** section.
+
+![Push to an existing repository](/images/push_your_application_to_github/01.png "Push to an existing repository")
+
+>Give your students a moment to do this. If someone accidentally closed the tab/window, instruct them to open a new tab, log back in to their GitHub account, and click on the todo_app repository in the sidebar.
+
+Now go back to your Cloud9 workspace. Navigate to the command line, type ctrl + v and hit **enter**.
+
+You have now connected your Rails application in Cloud9 to your todo_app GitHub repository. To make sure it worked, go back to the browser tab where you have GitHub open and refresh. You should now see your repository.
+
+![Your Rails application in your GitHub repository](/images/push_your_application_to_github/02.png "Your Rails application in your GitHub repository")
