@@ -91,10 +91,12 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Ruby on Rails**
   * [Welcome to Ruby on Rails](/back_end_development/welcome_to_ruby_on_rails.md "Welcome to Ruby on Rails")
-  * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
+  * [# Routes, Controllers, Actions, and Views](/back_end_development/routes_controllers_actions_views.md "# Routes, Controllers, Actions, and Views")
+
+  <!-- * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
   * [Model, View, Controller](/back_end_development/model_view_controller.md "Model, View, Controller")
   * [Create Your First Controller](/back_end_development/create_your_first_controller.md "Create Your First Controller")
   * [Follow the Path](/back_end_development/follow_the_path.md "Follow the Path")
   * [Route, Controller, Action, View](/back_end_development/route_controller_action_view.md "Route, Controller, Action, View")
   * [The Rails View File](/back_end_development/the_rails_view_file.md "The Rails View File")
-  * [Make Your HTML Smart](/back_end_development/make_your_html_smart.md "Make Your HTML Smart")
+  * [Make Your HTML Smart](/back_end_development/make_your_html_smart.md "Make Your HTML Smart") -->
