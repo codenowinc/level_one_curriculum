@@ -126,7 +126,7 @@ Rails will use this one application.css file to hold all of the CSS for the enti
 
 Now return to your live app, and refresh the browser. You should see your todo list index page fully styled just like your front end mock up!
 
-![Styled HTML](/images/put_your_front_end_in_rails_part_two/04.png "Styled HTML")
+![Styled HTML](/images/put_your_front_end_in_rails_part_two/05.png "Styled HTML")
 
 ## Commit and Push to GitHub
 It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
