@@ -2,7 +2,7 @@
 
 The first thing we want to do is import the HTML and CSS from weekend one into our new Rails applications. But with a rails application, getting your content and styles to display in the browser isn't as simple as executing your HTML file. Rails has many parts that must work together.
 
-To start, lets get a high-level overview of how a Rails applications work. The following four letters are going to be very important. **R C A V** These pieces are the foundation for everything that will come next.
+To start, lets get a high-level overview of how a Rails applications work. The following four letters are going to be very important. **RCAV** These pieces are the foundation for everything that will come next.
 
 ## R for Route
 A route is what the user types in to the URL bar at the top of the browser (We use routes in a few other places as well, but this is the main function for where we are starting). Think of your routes file as the reception desk for the rest of your app. It handles incoming requests and sends them to the right place.
