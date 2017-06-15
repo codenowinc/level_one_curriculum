@@ -7,9 +7,9 @@
   * [Welcome to Ruby on Rails](/back_end_development/welcome_to_ruby_on_rails.md "Welcome to Ruby on Rails")
   * [Create a GitHub Repository for Your Rails Application](/workspace_and_account_setup/create_a_github_repository_for_your_rails_application.md "Create a GitHub Repository for Your Rails Application")
   * [Create a Cloud9 Ruby on Rails Workspace](/workspace_and_account_setup/create_a_cloud9_ruby_on_rails_workspace.md "Create a Cloud9 Ruby on Rails Workspace")
-  * [Push Your Application to GitHub](/workspace_and_account_setup/push_your_application_to_github.md "Push Your Application to GitHub")
 
 **10:00 - 10:30 - P2**
+  * [Push Your Application to GitHub](/workspace_and_account_setup/push_your_application_to_github.md "Push Your Application to GitHub")
   * [Routes, Controllers, Actions, and Views](/back_end_development/routes_controllers_actions_views.md "# Routes, Controllers, Actions, and Views")
 
 **10:30 - 11:00 - P3**
