@@ -91,7 +91,7 @@ In this README, you will find a table of contents linking to a series of guides 
 
 * **Ruby on Rails**
   * [Welcome to Ruby on Rails](/back_end_development/welcome_to_ruby_on_rails.md "Welcome to Ruby on Rails")
-  * [# Routes, Controllers, Actions, and Views](/back_end_development/routes_controllers_actions_views.md "# Routes, Controllers, Actions, and Views")
+  * [Routes, Controllers, Actions, and Views](/back_end_development/routes_controllers_actions_views.md "# Routes, Controllers, Actions, and Views")
 
   <!-- * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
   * [Model, View, Controller](/back_end_development/model_view_controller.md "Model, View, Controller")
