@@ -10,8 +10,10 @@
   * [Push Your Application to GitHub](/workspace_and_account_setup/push_your_application_to_github.md "Push Your Application to GitHub")
 
 **10:00 - 10:30 - P2**
+  * [Routes, Controllers, Actions, and Views](/back_end_development/routes_controllers_actions_views.md "# Routes, Controllers, Actions, and Views")
 
 **10:30 - 11:00 - P3**
+  * [Put Your Front End In Rails - Part One](/back_end_development/put_your_front_end_in_rails_part_one.md "Put Your Front End In Rails - Part One")
 
 **11:00 - 11:30 - P4**
 
