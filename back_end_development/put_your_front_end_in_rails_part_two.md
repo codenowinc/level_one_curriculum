@@ -9,7 +9,7 @@ In your index.html file on GitHub, copy all of of the HTML in between the `<body
 
 Now paste that HTML into your index.html.erb file in your Rails Application, replacing the placeholder HTML you had in there from the previous section. Your index.html.erb file should look similar to the file below:
 
-*index.html.erb*
+***index.html.erb***
 ```html.erb
 <h1>
   <img class="company-logo" src="https://public.3.basecamp.com/p/iahgNshn1oKq98sWGf1q89Vo/uploads/511042491/download/CodeNow%20Logo.png"></img>
