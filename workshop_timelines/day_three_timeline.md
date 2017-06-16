@@ -24,6 +24,7 @@
 **12:00 - 13:00 - Lunch**
 
 **13:00 - 13:30 - P6**
+  * [Make Your HTML Smart](/back_end_development/make_your_HTML_smart.md "Make Your HTML Smart")
 
 **13:30 - 14:00 - P7**
 
