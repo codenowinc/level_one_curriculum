@@ -27,6 +27,7 @@
   * [Make Your HTML Smart](/back_end_development/make_your_HTML_smart.md "Make Your HTML Smart")
 
 **13:30 - 14:00 - P7**
+  * [Many Show Pages, One View File](/back_end_development/many_show_pages_one_view_file.md "Many Show Pages, One View File")
 
 **14:00 - 14:30 - P8**
 
