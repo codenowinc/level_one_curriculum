@@ -15,3 +15,22 @@ We can see the `<a></a>` tag wrapping the todo information so when we click "Mak
 Go ahead and link the rest of your todos to their show pages by using the appropriate HTML tag and routes.
 
 >Give your students some time to complete this activity.
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Add links to todos on the index page"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
