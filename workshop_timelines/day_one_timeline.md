@@ -1,6 +1,7 @@
 # Day One Timeline
 **9:00 - 9:30 - Welcome & Introductions**
   * Day One High-Level Summary
+  * Ice Breaker Activity
 
 **9:30 - 10:00 - P1**
   * [Solve a Problem You Care About](/product_development/solve_a_problem_you_care_about.md "Solve a Problem You Care About")

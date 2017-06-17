@@ -1,7 +1,7 @@
 # Day Three Timeline
-
 **9:00 - 9:30 - Welcome & Introductions**
   * Day Three High-Level Summary
+  * Ice Breaker Activity
 
 **9:30 - 10:00 - P1**
   * [Welcome to Ruby on Rails](/back_end_development/welcome_to_ruby_on_rails.md "Welcome to Ruby on Rails")

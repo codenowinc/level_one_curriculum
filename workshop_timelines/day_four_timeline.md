@@ -1,7 +1,7 @@
 # Day Four Timeline
-
 **9:00 - 9:30 - Welcome & Introductions**
   * Day Four High-Level Summary
+  * Ice Breaker Activity
 
 **9:30 - 10:00 - P1**
 
