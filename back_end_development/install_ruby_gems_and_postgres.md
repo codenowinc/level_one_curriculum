@@ -1,9 +1,8 @@
 # Install Ruby Gems and Postgres
+Just like there are many different programming languages (Ruby, Java, C, Python, etc.), there are multiple database languages that programmers use to create and maintain databases. Rails comes with a database language called SQLite by default, but we're going to change our apps to use a database language called PostGres or PG for short. We do this so we can host our applications using a service called Heroku, which you all will get to know later on.
 
 ## Locate the Gemfile
-Now that you have created your Cloud9 workspace and first Rails application, there are a few housekeeping tasks that you need to take care of before you can start the application up.
-
-In your file tree on the left side of the screen, locate the file named Gemfile and open it. The Gemfile is full of Ruby Gems which are pre-written Ruby programs and libraries in a self-contained format called a "gem". Gems provide functionality that many programmers need often. They allow programmers not to have to reinvent the wheel every time they start a new project.
+In your file tree on the left side of the screen, locate the file named Gemfile and open it. The Gemfile is full of Ruby Gems which are pre-written Ruby programs and libraries in a self-contained format called a "gem". Gems provide functionality that many programmers often need and use. They allow programmers not to have to reinvent the wheel every time they start a new project.
 
 >Give your students a moment to locate and open their Gemfile.
 ![Gemfile](/images/install_ruby_gems_and_postgres/01.png "Gemfile")
@@ -51,4 +50,4 @@ $ sudo service postgresql start
 $ createdb todo_app_development
 ```
 
-You have now successfully created and started up the Postgres database you will be storing all of your todo application's data in.
+You have now successfully created and started up the Postgres database where you will be storing all of your todo application's data!
