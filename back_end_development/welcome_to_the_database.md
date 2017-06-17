@@ -5,7 +5,7 @@ Let's take a look at what we've done so far.
 3. We learned about the **RCAV** flow, and how it is the bedrock of all Rails applications.
 4. We completed the **RCAV** flow for our index and show pages and imported our HTML and CSS from weekend one into our new applications.
 5. We made our HTML files intelligent by learning to add embedded Ruby.
-6. We **DRY**ed up our code by using dynamic route segments to create a show page for every todo without adding more view files.
+6. We **DRY**/ed up our code by using dynamic route segments to create a show page for every todo without adding more view files.
 7. We used conditional logic to display the right show page for the right route.
 8. Finally, we linked each show page to the correct todo on the index page.
 
