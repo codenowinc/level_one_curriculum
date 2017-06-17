@@ -8,6 +8,7 @@
   * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
 
 **10:00 - 10:30 - P2**
+  * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
 
 **10:30 - 11:00 - P3**
 
