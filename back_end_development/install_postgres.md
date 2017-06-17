@@ -1,4 +1,4 @@
-# Install Ruby Gems and Postgres
+# Install Postgres
 Just like there are many different programming languages (Ruby, Java, C, Python, etc.), there are multiple database languages that programmers use to create and maintain databases. Rails comes with a database language called SQLite by default, but we're going to change our apps to use a database language called PostGres or PG for short. We do this so we can host our applications using a service called Heroku, which you all will get to know later on.
 
 ## Locate the Gemfile
@@ -51,3 +51,22 @@ $ createdb todo_app_development
 ```
 
 You have now successfully created and started up the Postgres database where you will be storing all of your todo application's data!
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Install postgres and update database.yml"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
