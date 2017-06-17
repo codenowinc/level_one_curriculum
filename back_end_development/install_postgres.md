@@ -5,7 +5,7 @@ Just like there are many different programming languages (Ruby, Java, C, Python,
 In your file tree on the left side of the screen, locate the file named Gemfile and open it. The Gemfile is full of Ruby Gems which are pre-written Ruby programs and libraries in a self-contained format called a "gem". Gems provide functionality that many programmers often need and use. They allow programmers not to have to reinvent the wheel every time they start a new project.
 
 >Give your students a moment to locate and open their Gemfile.
-![Gemfile](/images/install_ruby_gems_and_postgres/01.png "Gemfile")
+![Gemfile](/images/install_postgres/01.png "Gemfile")
 
 ## Remove sqlite gem and add pg gem
 There are a few changes you have to make in the Gemfile before you can install all of the Gems.
