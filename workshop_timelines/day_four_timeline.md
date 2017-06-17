@@ -4,6 +4,7 @@
   * Ice Breaker Activity
 
 **9:30 - 10:00 - P1**
+  * [Welcome to the Database](/back_end_development/welcome_to_the_database.md "Welcome to the Database")
 
 **10:00 - 10:30 - P2**
 

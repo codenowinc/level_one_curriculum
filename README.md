@@ -99,11 +99,5 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Many Show Pages, One View File](/back_end_development/many_show_pages_one_view_file.md "Many Show Pages, One View File")
   * [Conditional Logic](/back_end_development/conditional_logic.md "Conditional Logic")
   * [Link the Todos On the Index Page](/back_end_development/link_the_todos_on_the_index_page.md "Link the Todos on the Index Page")
-
-  <!-- * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
-  * [Model, View, Controller](/back_end_development/model_view_controller.md "Model, View, Controller")
-  * [Create Your First Controller](/back_end_development/create_your_first_controller.md "Create Your First Controller")
-  * [Follow the Path](/back_end_development/follow_the_path.md "Follow the Path")
-  * [Route, Controller, Action, View](/back_end_development/route_controller_action_view.md "Route, Controller, Action, View")
-  * [The Rails View File](/back_end_development/the_rails_view_file.md "The Rails View File")
-  * [Make Your HTML Smart](/back_end_development/make_your_html_smart.md "Make Your HTML Smart") -->
+  * [Welcome to the Database](/back_end_development/welcome_to_the_database.md "Welcome to the Database")
+  * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
