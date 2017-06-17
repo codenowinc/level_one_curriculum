@@ -30,9 +30,12 @@
   * [Many Show Pages, One View File](/back_end_development/many_show_pages_one_view_file.md "Many Show Pages, One View File")
 
 **14:00 - 14:30 - P8**
+  * [Conditional Logic](/back_end_development/conditional_logic.md "Conditional Logic")
 
 **14:30 - 15:00 - P9**
+  * [Link the Todos On the Index Page](/back_end_development/link_the_todos_on_the_index_page.md "Link the Todos on the Index Page")
 
 **15:00 - 15:30 - P10**
+  * Overflow and Demonstrations
 
 **15:30 - 16:00 - Clean Up & Wrap Up**
