@@ -74,7 +74,7 @@ end
 "Real" conditions, for example comparing one variable to another, can be created by using 'conditional' or 'comparison' operators. These are operators that are made for comparing things, and when values are present at both sides of the operator, this will result in a 'true' or 'false' value. The basic conditional operators are:
 
 ### Conditional Operators
-  * **==** - Is equal to
+  * `**==**` - Is equal to
   * **!=** - Is not equal to
   * **\>** - Is greater than
   * **<** - Is less than
