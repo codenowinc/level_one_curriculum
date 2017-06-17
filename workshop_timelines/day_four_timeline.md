@@ -1,7 +1,7 @@
 # Day Four Timeline
 
 **9:00 - 9:30 - Welcome & Introductions**
-  * Day Three High-Level Summary
+  * Day Four High-Level Summary
 
 **9:30 - 10:00 - P1**
 
