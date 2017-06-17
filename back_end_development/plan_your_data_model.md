@@ -10,6 +10,6 @@ We'll start by identifying all the pieces of information associated with a todo.
 
 If we had to visualize our data model for a todo, it would look something like this.
 
-![Todo Data Model](/images/plan_your_data_models/02.png "Todo Data Model")
+![Todo Data Model](/images/plan_your_data_models/01.png "Todo Data Model")
 
 But before we can create our database in our Rails applications, there is some house keeping we have to do.
