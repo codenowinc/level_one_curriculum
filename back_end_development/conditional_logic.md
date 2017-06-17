@@ -58,7 +58,7 @@ One of the most powerful features present in most programming languages is the a
 These 'if' statements check whether a condition is true or not. In Ruby they are created by writing the `if` keyword, followed by a condition and then the `end` keyword to end the statement. A basic if statement should look something like the following:
 ```ruby
 if condition
-  #Code to execute if 'condition' is true
+  # Code to execute if 'condition' is true
 end
 ```
 
@@ -97,7 +97,7 @@ Now let's write our first if statement using the `todo_id` to write our conditio
 def show
   todo_id = '1'
 
-  if todo_id == '1' #Remember, the `==` conditional operator is used to check if two things are equal to each other.
+  if todo_id == '1' # Remember, the `==` conditional operator is used to check if two things are equal to each other.
     @todo_description = "Make the curriculum"
     @todo_pomodoro_estimate = 4
   end
@@ -129,7 +129,7 @@ Luckily, Rails stores the information typed in to the URL in a handy place calle
 ```ruby
 def show
   todo_id = params[:id]
-  ... #The ... signifies that there is more code in this section, but is not shown in the example for the sake of brevity
+  ... # The ... signifies that there is more code in this section, but is not shown in the example for the sake of brevity
 end
 ```
 
