@@ -75,11 +75,11 @@ end
 
 ### Conditional Operators
   * **`==`** - Is equal to
-  * **!=** - Is not equal to
-  * **\>** - Is greater than
-  * **<** - Is less than
-  * **\>=** - Is greater than or equal to
-  * **<=** - Is less than or equal to
+  * **`!`=** - Is not equal to
+  * **`\>`** - Is greater than
+  * **`<`** - Is less than
+  * **`\>=`** - Is greater than or equal to
+  * **`<=`** - Is less than or equal to
 
 Let's put conditional logic and operators to the test by writing our first if statement. Navigate to yhe show action of your Todo controller.
 
