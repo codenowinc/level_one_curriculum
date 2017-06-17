@@ -1,4 +1,4 @@
-# Plan Your Data Models
+# Plan Your Data Model
 The typical first step when creating a database is to create a data model, which is a representation of the real world items in your application. For the example application we have todos. A todo is something that exists in the real world, and a data model of a todo would be the database representation of that real world item.
 
 In our case, we are all building a simple todo list application which has todos. Thus we'll begin with the data model for todos.

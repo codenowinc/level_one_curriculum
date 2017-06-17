@@ -100,5 +100,5 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Conditional Logic](/back_end_development/conditional_logic.md "Conditional Logic")
   * [Link the Todos On the Index Page](/back_end_development/link_the_todos_on_the_index_page.md "Link the Todos on the Index Page")
   * [Welcome to the Database](/back_end_development/welcome_to_the_database.md "Welcome to the Database")
-  * [Plan Your Data Models](/back_end_development/plan_your_data_models.md "Plan Your Data Models")
+  * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
   * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")

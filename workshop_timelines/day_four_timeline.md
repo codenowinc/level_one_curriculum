@@ -5,6 +5,7 @@
 
 **9:30 - 10:00 - P1**
   * [Welcome to the Database](/back_end_development/welcome_to_the_database.md "Welcome to the Database")
+  * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
 
 **10:00 - 10:30 - P2**
 
