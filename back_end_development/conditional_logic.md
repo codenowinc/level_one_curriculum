@@ -58,7 +58,7 @@ One of the most powerful features present in most programming languages is the a
 These 'if' statements check whether a condition is true or not. In Ruby they are created by writing the `if` keyword, followed by a condition and then the `end` keyword to end the statement. A basic if statement should look something like the following:
 ```ruby
 if condition
-	#Code to execute if 'condition' is true
+#Code to execute if 'condition' is true
 end
 ```
 
@@ -66,7 +66,7 @@ From here the obvious question is: "How do we formulate a condition?". Well firs
 ```ruby
 test_variable = true
 
-if test_variable #In this case, 'if true' would do exactly the same!
+if test_variable
 	puts "Hello"
 end
 ```
