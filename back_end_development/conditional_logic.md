@@ -75,7 +75,7 @@ end
 
 ### Conditional Operators
   * **`==`** - Is equal to
-  * **`!`=** - Is not equal to
+  * **`!=`** - Is not equal to
   * **`>`** - Is greater than
   * **`<`** - Is less than
   * **`>=`** - Is greater than or equal to
