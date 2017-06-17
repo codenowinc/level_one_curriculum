@@ -19,7 +19,7 @@ gem 'sqlite3'
 Add the following lines in its place
 ```Ruby
 # Use Postgres as the database for Active Record
-gem ‘pg’
+gem 'pg'
 ```
 
 Make sure to save by typing **ctrl + s**. You now need to enter a command into your command line to tell Rails to install these Ruby gems into the application.
