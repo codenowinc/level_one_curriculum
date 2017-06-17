@@ -47,7 +47,7 @@ Make sure to save the new contents of your database.yml file. Now you are going 
 Enter the following two commands into the command line, one at a time:
 ```Shell
 $ sudo service postgresql start
-$ createdb todo_app_development
+$ createdb todo_app_back_end_development
 ```
 
 You have now successfully created and started up the Postgres database where you will be storing all of your todo application's data!
