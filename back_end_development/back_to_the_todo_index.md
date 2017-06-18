@@ -133,3 +133,22 @@ We then call the `@todos` variable in the index view, and cycle through each `to
 ```
 
 So for every todo that exists in our database, the code in the above block will be executed.
+
+## Commit and Push to GitHub
+It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
+
+Use the following commands to commit your changes and push them to GitHub.
+
+```shell
+git add -A
+```
+
+```shell
+git commit -m "Use .each do block on index page"
+```
+
+```shell
+git push
+```
+
+Now check your repository on GitHub to see if the changes were successfully pushed.
