@@ -11,7 +11,7 @@
   * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
 
 **10:30 - 11:00 - P3**
-  * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
+  * [Install Ruby Gems and Postgres](/back_end_development/install_postgres.md "Install Ruby Gems and Postgres")
 
 **11:00 - 11:30 - P4**
   * [Create Your First Database Table](/back_end_development/create_your_first_database_table.md "Create Your First Database Table")
