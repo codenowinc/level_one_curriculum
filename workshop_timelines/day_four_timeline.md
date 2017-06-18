@@ -11,7 +11,7 @@
   * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
 
 **10:30 - 11:00 - P3**
-
+  * [Create Your First Database Table](/back_end_development/create_your_first_database_table.md "Create Your First Database Table")
 
 **11:00 - 11:30 - P4**
 

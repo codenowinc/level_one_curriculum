@@ -102,3 +102,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Welcome to the Database](/back_end_development/welcome_to_the_database.md "Welcome to the Database")
   * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
   * [Install Postgres](/back_end_development/install_postgres.md "Install Postgres")
+  * [Create Your First Database Table](/back_end_development/create_your_first_database_table.md "Create Your First Database Table")
