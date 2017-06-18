@@ -136,6 +136,15 @@ Here's a line we haven't seen before! If you noticed, we haven't created a view 
 
 The purpose of the create action is to save the information the user enters into the form in the database. In this case, the user is creating a new todo. After a new todo is saved to the database, it automatically gets assigned an id by Rails, and we want to show the new todo to the user. So `redirect_to "/todo/show/#{ t.id }"` goes to the show route followed by the number associated with this new todo.
 
+### Updating the New form
+Now that we have the **RCAV** flow set up for create, let's add the route to our form action attribute in the new.html.erb file so the information entered in the form gets saved to the database.
+
+Your opening `<form>` tag in your new.html.erb file should look like the code below.
+```html.erb
+<form action="/todo/create">
+...
+```
+
 Now that we know how to create new todo objects with a form, it's time to learn how to edit, update, and delete todos!
 
 ## Commit and Push to GitHub
