@@ -58,7 +58,7 @@ Lets start by paring down our HTML to just one todo.
 <ul class="card">
 <li>
   <input type="checkbox" name=""/>
-  <a href="show/1">todo.description</a>
+  <a href="show/1">Make the curriculum</a>
   <span class="pomodoro-estimate small-pomodoro-estimate">4 Pomodoros</span>
 </li>
 </ul>
@@ -69,3 +69,56 @@ Lets start by paring down our HTML to just one todo.
 ```
 
 Now that we have simplified our HTML, let's replace our content with variables.
+
+***index.html.erb***
+```html.erb
+<ul class="card">
+<li>
+  <input type="checkbox" name=""/>
+  <a href="show/1"><%= todo.description %></a>
+  <span class="pomodoro-estimate small-pomodoro-estimate"><%= todo.pomodoro_estimate %></span>
+</li>
+</ul>
+
+<div id="new-todo-block">
+<a href="/todo/new" class="button add-new-todo-button" id="add-new-todo-button">Add a todo</a>
+</div>
+```
+
+But the problem with the above code is we haven't defined the `todo` variable anywhere, and we have to make sure every todo in our database appears.
+
+For this we can use a type of conditional called a `.each do` block.
+
+## The `.each do` Block
+```html.erb
+<ul class="card">
+<% @todos.each do |todo| %>
+  <li>
+    <input type="checkbox" name=""/>
+    <a href="show/1"><%= todo.description %></a>
+    <span class="pomodoro-estimate small-pomodoro-estimate"><%= todo.pomodoro_estimate %></span>
+  </li>
+<% end %>
+</ul>
+
+<div id="new-todo-block">
+<a href="/todo/new" class="button add-new-todo-button" id="add-new-todo-button">Add a todo</a>
+</div>
+```
+
+So what do the following lines of code mean?
+```html.erb
+<% @todos.each do |todo| %>
+<% end %>
+```
+
+This is a `.each do` block. We must define an instance variable named `@todos` in our index action in the Todo controller and set it equal to `Todo.all`.
+```ruby
+def index
+  @todos = Todo.all
+end
+```
+
+This puts all of the todo objects in our database in an array and stores it in the `@todos` variable.
+
+We then call the `@todos` variable in the index view, and cycle through each `todo` in the `@todos` array and execute the code inside the following block.
