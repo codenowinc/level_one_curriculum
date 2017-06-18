@@ -115,7 +115,7 @@ t.description = params['description']
 ```
 The params hash is where Rails automatically stores all the information a user enters in the browser, whether that's in the URL bar on in a form. We know to call the piece of information 'description' because when we wrote the HTML for the form, that's what we called it in the name attribute!
 
-![Naming the Input](/images/add_todos_to_the_database_with_an_html_form/02.png "Naming the Input")
+![Naming the Input](/images/add_todos_to_the_database_with_an_html_form/01.png "Naming the Input")
 
 Because we named the name attribute escription in the HTML of the form, we can refer to the data that the user inputs into the field as new-todo-description from the Params hash.
 
