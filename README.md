@@ -103,3 +103,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
   * [Install Postgres](/back_end_development/install_postgres.md "Install Postgres")
   * [Create Your First Database Table](/back_end_development/create_your_first_database_table.md "Create Your First Database Table")
+  * [Add Todos to the Database from the Rails Console](/back_end_development/add_todos_to_the_database_from_the_rails_console.md "Add Todos to the Database from the Rails Console")

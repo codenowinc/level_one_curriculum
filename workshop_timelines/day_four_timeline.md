@@ -4,18 +4,20 @@
   * Ice Breaker Activity
 
 **9:30 - 10:00 - P1**
+  * Day Three Review and Overflow
+
+**10:00 - 10:30 - P2**
   * [Welcome to the Database](/back_end_development/welcome_to_the_database.md "Welcome to the Database")
   * [Plan Your Data Model](/back_end_development/plan_your_data_model.md "Plan Your Data Model")
 
-**10:00 - 10:30 - P2**
+**10:30 - 11:00 - P3**
   * [Install Ruby Gems and Postgres](/back_end_development/install_ruby_gems_and_postgres.md "Install Ruby Gems and Postgres")
 
-**10:30 - 11:00 - P3**
+**11:00 - 11:30 - P4**
   * [Create Your First Database Table](/back_end_development/create_your_first_database_table.md "Create Your First Database Table")
 
-**11:00 - 11:30 - P4**
-
 **11:30 - 12:00 - P5**
+  * [Add Todos to the Database from the Rails Console](/back_end_development/add_todos_to_the_database_from_the_rails_console.md "Add Todos to the Database from the Rails Console")
 
 **12:00 - 13:00 - Lunch**
 

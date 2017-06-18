@@ -21,15 +21,15 @@ Let’s look at the migration file first located at ***db/migrate/last_migration
 
 >Give your students a moment to navigate to their migration file.
 
-![Last Migration File](/images/put_your_front_end_in_rails_part_one/02.png "Last Migration File")
+![Last Migration File](/images/create_your_first_database_table/02.png "Last Migration File")
 
 What this migration is doing, is setting up a table inside your new database. You can think of a table kind of like a spreadsheet. This migration file is setting up a table named Todos.
 
-![Todo Data Model](/images/put_your_front_end_in_rails_part_one/03.png "Todo Data Model")
+![Todo Data Model](/images/create_your_first_database_table/03.png "Todo Data Model")
 
 The other file that was created is a model file ***located at app/models/todo.rb***. The model file is a container for all the code that is related to a particular object. Right now this file looks empty, but at the top, there is a `Class Todo < ActiveRecord::Base`.
 
-![Todo Model](/images/put_your_front_end_in_rails_part_one/04.png "Todo Model")
+![Todo Model](/images/create_your_first_database_table/04.png "Todo Model")
 
 The < ActiveRecord::Base is our Todo model inheriting code directly from Rails, allowing the model to connect to the database table that we are about to create using the migration file we just looked at.
 
@@ -47,7 +47,7 @@ What this does is it runs the migration file to set up the database table. The m
 
 After you run `$ rake db:migrate`, you will see an output in your console like the one pictured here indicating that the lists table was created.
 
-![Lists Table Created](/images/put_your_front_end_in_rails_part_one/05.png "Lists Table Created")
+![Lists Table Created](/images/create_your_first_database_table/05.png "Lists Table Created")
 
 Now that we’ve created our database for lists, how do we store information in our database?
 
