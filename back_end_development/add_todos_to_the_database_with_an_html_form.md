@@ -145,6 +145,8 @@ Your opening `<form>` tag in your new.html.erb file should look like the code be
 ...
 ```
 
+Now got to your live application and navigate to the /todo/new route. Enter in the information for a new todo and hit submit. You should be taken to the show page for the todo you just created!
+
 Now that we know how to create new todo objects with a form, it's time to learn how to edit, update, and delete todos!
 
 ## Commit and Push to GitHub
