@@ -31,6 +31,8 @@
   * [Back to the Todo Index](/back_end_development/back_to_the_todo_index.md "Back to the Index")
 
 **14:30 - 15:00 - P9**
+  * [Create Your Heroku Account](https://public.3.basecamp.com/p/bFrmQqjKSJuoYBxHhye8NsLr "Create Your Heroku Account")
+  * [Deploy to Heroku](/workspace_and_account_setup/deploy_to_heroku.md "Deploy to Heroku")
 
 **15:00 - 15:30 - P10**
   * Overflow and Demonstrations
