@@ -12,7 +12,7 @@ The Rails console give us a test environment to try out Ruby code before we put 
 
 ## Adding Todo object to the database
 You can add objects to your database from the Rails console. For example, if you wanted to add a new Todo object to the database you would use the following command:
-```console
+```shell
 > t = Todo.new
 ```
 
@@ -23,7 +23,7 @@ You're using an uppercase T for Todo because it’s a model. We’re assigning a
 This tells you that a Todo object was created, but it hasn’t been saved to the database yet because the id is still nil.
 
 You can assign this new Todo object a description. Use the following command to do so:
-```console
+```shell
 > t.description = "Make the curriculum"
 ```
 You can also assign this Todo object a Pomodoro estimate. Use the following command:
