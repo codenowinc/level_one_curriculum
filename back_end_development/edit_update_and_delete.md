@@ -114,6 +114,33 @@ After the Todo object has been updated, the action redirects to the todo's show 
 
 Test it out to see if it works!
 
+## Destroy
+Finally, we want to be able to destroy todos that we don't want. The destroy action is much simpler than the others. We want to be able to click the destroy `<a></a>` link on the todo's show page. We still need the **RCA** flow.
+
+### Route
+We want to create a route for the destroy action. When Rails goes to this route, it will trigger the destroy action and then redirects to the index page again, since the show page for the deleted todo no longer exists.
+```ruby
+get 'todo/destroy/:id', to: 'todo#destroy'
+```
+
+We must use a dynamic route segment for this route as well, since Rails needs to know which todo we want deleted from the database.
+
+### Controller & Action
+In our controller, we now need an action. Define the destroy action in your Todo controller.
+```ruby
+def destroy
+end
+```
+
+In our `destroy` action, we're going to create a variable `t`. In `t` we're going to store the Todo object that we want to delete. Then we are going to use the command `.destroy` to delete the todo from the database. Finally, since the show page for the todo doesn't exist anymore, we are going to redirect to the index page.
+```ruby
+def destroy
+  t = Todo.find_by_id(params[:id])
+  t.destroy
+  redirect_to "/todo/index"
+end
+```
+
 ## Commit and Push to GitHub
 It's important to constantly commit and push your code to GitHub. This way, as you make changes and add to your code, you'll be able to save your progress and not be at risk of losing your work.
 
@@ -124,7 +151,7 @@ git add -A
 ```
 
 ```shell
-git commit -m "Add the edit and update RCAV flows"
+git commit -m "Add the edit, update, and destroy RCAV flows"
 ```
 
 ```shell
