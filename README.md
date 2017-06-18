@@ -104,3 +104,4 @@ In this README, you will find a table of contents linking to a series of guides 
   * [Install Postgres](/back_end_development/install_postgres.md "Install Postgres")
   * [Create Your First Database Table](/back_end_development/create_your_first_database_table.md "Create Your First Database Table")
   * [Add Todos to the Database from the Rails Console](/back_end_development/add_todos_to_the_database_from_the_rails_console.md "Add Todos to the Database from the Rails Console")
+  * [Add Todos to the Database With an HTML Form](/back_end_development/add_todos_to_the_database_with_an_html_form.md "Add Todos to the Database With an HTML Form")
