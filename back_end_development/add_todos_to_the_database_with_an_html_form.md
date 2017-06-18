@@ -63,8 +63,8 @@ Finally, we create a view file named new.html.erb in the ***app/views/todo*** di
 <h2>Add a new todo...</h2>
 
 <form action="#">
-  <input class="text-input" id="new-todo-description" name="new-todo-description" type="text" placeholder="Add a new todo...">
-  <input class="text-input" id="new-pomodoro-estimate" name="new-pomodoro-estimate" type="number" placeholder="Pomodoro estimate...">
+  <input class="text-input" id="new-todo-description" name="description" type="text" placeholder="Add a new todo...">
+  <input class="text-input" id="new-pomodoro-estimate" name="pomodoro-estimate" type="number" placeholder="Pomodoro estimate...">
   <input class="button" id="add-new-todo-button" type="submit" value="Add todo">
 </form>
 ```
@@ -111,16 +111,16 @@ t = Todo.new
 In this line, you are creating a new Todo object in your database and assigning to a variable t.
 
 ```ruby
-t.description = params['new-todo-description']
+t.description = params['description']
 ```
-The params hash is where Rails automatically stores all the information a user enters in the browser, whether that's in the URL bar on in a form. We know to call the piece of information 'new-todo-description' because when we wrote the HTML for the form, that's what we called it!
+The params hash is where Rails automatically stores all the information a user enters in the browser, whether that's in the URL bar on in a form. We know to call the piece of information 'description' because when we wrote the HTML for the form, that's what we called it in the name attribute!
 
 ![Naming the Input](/images/add_todos_to_the_database_with_an_html_form/01.png "Naming the Input")
 
-Because we named the name attribute new-todo-description in the HTML of the form, we can refer to the data that the user inputs into the field as new-todo-description from the Params hash.
+Because we named the name attribute escription in the HTML of the form, we can refer to the data that the user inputs into the field as new-todo-description from the Params hash.
 
 ```ruby
-t.description = params['description']
+t.description = params['pomodoro_estimate']
 ```
 The params hash is where Rails automatically stores all the information a user enters in the browser, whether that's in the URL bar on in a form. We know to call the piece of information 'description' because when we wrote the HTML for the form, that's what we called it!
 
