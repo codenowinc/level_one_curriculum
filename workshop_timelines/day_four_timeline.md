@@ -25,6 +25,7 @@
   * [Add Todos to the Database With an HTML Form](/back_end_development/add_todos_to_the_database_with_an_html_form.md "Add Todos to the Database With an HTML Form")
 
 **13:30 - 14:00 - P7**
+  * [Edit, Update, and Delete](/back_end_development/edit_update_and_delete.md "Edit, Update, and Delete")
 
 **14:00 - 14:30 - P8**
 
