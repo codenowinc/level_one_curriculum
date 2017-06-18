@@ -75,7 +75,7 @@ Now that we have simplified our HTML, let's replace our content with variables.
 <ul class="card">
 <li>
   <input type="checkbox" name=""/>
-  <a href="show/1"><%= todo.description %></a>
+  <a href="show/<%= todo.id %>"><%= todo.description %></a>
   <span class="pomodoro-estimate small-pomodoro-estimate"><%= todo.pomodoro_estimate %></span>
 </li>
 </ul>
@@ -95,7 +95,7 @@ For this we can use a type of conditional called a `.each do` block.
 <% @todos.each do |todo| %>
   <li>
     <input type="checkbox" name=""/>
-    <a href="show/1"><%= todo.description %></a>
+    <a href="show/<%= todo.id %>"><%= todo.description %></a>
     <span class="pomodoro-estimate small-pomodoro-estimate"><%= todo.pomodoro_estimate %></span>
   </li>
 <% end %>
@@ -122,3 +122,14 @@ end
 This puts all of the todo objects in our database in an array and stores it in the `@todos` variable.
 
 We then call the `@todos` variable in the index view, and cycle through each `todo` in the `@todos` array and execute the code inside the following block.
+```html.erb
+<% @todos.each do |todo| %>
+  <li>
+    <input type="checkbox" name=""/>
+    <a href="show/<%= todo.id %>"><%= todo.description %></a>
+    <span class="pomodoro-estimate small-pomodoro-estimate"><%= todo.pomodoro_estimate %></span>
+  </li>
+<% end %>
+```
+
+So for every todo that exists in our database, the code in the above block will be executed.
