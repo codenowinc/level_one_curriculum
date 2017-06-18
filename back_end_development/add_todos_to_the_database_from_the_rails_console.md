@@ -47,7 +47,7 @@ Now let's see how many Todos we have saved in the database:
 
 If you want to find a Todo object with a particular id, let’s say and id of 1, use the following command:
 ```shell
-> todo.find_by_id(1)
+> Todo.find_by_id(1)
 ```
 
 ## Move the process to the Todo controller show aciton
