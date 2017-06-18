@@ -12,8 +12,8 @@ The Rails console give us a test environment to try out Ruby code before we put 
 
 ## Adding Todo object to the database
 You can add objects to your database from the Rails console. For example, if you wanted to add a new Todo object to the database you would use the following command:
-```shell
-t = Todo.new
+```console
+> t = Todo.new
 ```
 
 You're using an uppercase T for Todo because it’s a model. We’re assigning a new Todo object to a variable called t. Think of it as a new row being created in the database table.
@@ -23,17 +23,17 @@ You're using an uppercase T for Todo because it’s a model. We’re assigning a
 This tells you that a Todo object was created, but it hasn’t been saved to the database yet because the id is still nil.
 
 You can assign this new Todo object a description. Use the following command to do so:
-```shell
-t.description = "Make the curriculum"
+```console
+> t.description = "Make the curriculum"
 ```
 You can also assign this Todo object a Pomodoro estimate. Use the following command:
 ```shell
-t.pomodoro_estimate = 4
+> t.pomodoro_estimate = 4
 ```
 
 Now that you've set the description and Pomodoro estimate of the new Todo object, you want to save it to the database. You can do that by using the following command;
 ```shell
-t.save
+> t.save
 ```
 
 Now add your second Todo object to the database using the same method as demonstrated above.
@@ -42,12 +42,12 @@ Now add your second Todo object to the database using the same method as demonst
 
 Now let's see how many Todos we have saved in the database:
 ```shell
-Todo.all
+> Todo.all
 ```
 
 If you want to find a Todo object with a particular id, let’s say and id of 1, use the following command:
 ```shell
-todo.find_by_id(1)
+> todo.find_by_id(1)
 ```
 
 ## Move the process to the Todo controller show aciton
