@@ -3,7 +3,7 @@
 Now that we have created our todo Index and Show pages in our Rails application, it's time to use some of the powers Rails gives us to make our HTML smart.
 
 ## The Objective
-Our goal is to have a show page for every todo in our list, not just the first one. Ideally, we'd like to have a show page for each todo. That seems simple enough! All we need to do is write the HTML for each todo's show page, just like we have done for the first todo in our lists. So In the example todo application, we have seven todos in the list, so we'd need seven show pages. But wait, what happens when we add another todo to the list? We have to create a whole new file and write the HTML for that todo's show page? That's not very practical! Let's take a look at how to make our HTML smart so we can add as many todos to our lists as we want, and a show page is created for each one automatically. Better yet, let's do that with only one show.html.erb file!
+Our goal is to have a show page for every todo in our list, not just the first one. That seems simple enough! All we need to do is write the HTML for each todo's show page, just like we have done for the first todo in our lists. In the example todo application, we have seven todos in the list, so we'd need seven show pages. But wait, what happens when we add another todo to the list? We have to create a whole new file and write the HTML for that todo's show page? That's not very practical! Let's take a look at how to make our HTML smart so we can add as many todos to our lists as we want, and a show page is created for each one automatically. Better yet, let's do that with only one show.html.erb file!
 
 ## Embdedded Ruby
 Take a look at the file name of your view files. Like we talked about earlier, you’ll notice they have the file extension .html.erb. We know that the .html extension designates that this file has HTML in it. Does anyone remember what the .erb extension stands for?
@@ -87,7 +87,7 @@ Let's replace the lines describing the todo and stating the Pomodoro estimate wi
 <span class="pomodoro-estimate large-pomodoro-estimate"><%= @todo_pomodoro_estimate %> Pomodoros</span>
 ```
 
-Now return to your live app, and refresh the browser. On your show page, you should see Make the curriculum for the todo description and 4 for the Pomodoro estimate! Go back to your Todo controller and change the data in one of your instance variables. Now refresh the page again and see if what's displayed on the page automatically changes.
+Now return to your live app, and refresh the browser. On your show page, you should see "Make the curriculum" for the todo description and "4" for the Pomodoro estimate! Go back to your Todo controller and change the data in one of your instance variables. Now refresh the page again and see if what's displayed on the page automatically changes.
 
 Great! Now that we know how to use instance variables, we can begin on our quest to have a show page for every todo on our list, without writing another line of HTML!
 
