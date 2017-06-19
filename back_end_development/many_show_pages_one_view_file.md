@@ -69,7 +69,7 @@ If you did the Ruby tutorial homework, you'll remember that the colon `:` is use
 
 >Give your students a moment to update their route to make it dynamic.
 
-Now go to your live Rails application and add **/todo/show/1** to the end of your URL. Then try changing it to **/todo/show/1000**. Both of those work, even though you didn't create those routes explicitly. But they still render the same page. let's add some HTML and Ruby to our show.html.erb file to make what's happening more obvious.
+Now go to your live Rails application and add **/todo/show/1** to the end of your URL. Then try changing it to **/todo/show/1000**. Both of those work, even though you didn't create those routes explicitly. But they still render the same page. Let's add some HTML and Ruby to our show.html.erb file to make what's happening more obvious.
 
 Add the following code to the top of your show.html.erb file:
 ```html.erb
