@@ -60,7 +60,7 @@ So instead of creating a separate route for each show page, we can add a variabl
 
 We do this by coming up with a descriptive name for the variable. In this case, each todo is numbered 1-7 and so on. We can call these numbers ids. Each todo has an id which we can use to identify it. So if we enter **/todos/show/1** in the URL, we want to see the show page for the todo with an id of 1. If we enter **/todo/show/2** in the URL, we want to see the show page for the todo with an id of 2.
 
-Adding the dynmaic route segment to our show page route in our routes.rb file looks like this:
+Adding the dynamic route segment to our show page route in our routes.rb file looks like this:
 ```ruby
 get 'todo/show/:id', to: 'todo#show'
 ```
