@@ -77,7 +77,7 @@ This is how the example show.html.erb file currently looks:
   <span class="pomodoro-estimate large-pomodoro-estimate"><%= 3+1 %> Pomodoros</span>
   <a href="#" class="button" id="edit-todo-button">Edit</a>
   <a href="#" class="button" id="delete-todo-button">Delete</a>
-  <a href="index" class="simple-link">Go back...</a>
+  <a href="/todo/index" class="simple-link">Go back...</a>
 </div>
 ```
 
