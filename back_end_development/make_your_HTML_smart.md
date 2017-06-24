@@ -60,9 +60,9 @@ def show
 end
 ```
 
-We have now defined two index variables called todo_description and todo_pomodoro_estimate. Index variables must have an `@` symbol in front of them to work. Without the `@` symbol, instance variables defined in the controller action won't be accessible in the view.
+We have now defined two instance variables called todo_description and todo_pomodoro_estimate. Instance variables must have an `@` symbol in front of them to work. Without the `@` symbol, instance variables defined in the controller action won't be accessible in the view.
 
-Now let's use these newly defined index variables in our show.html.erb view file!
+Now let's use these newly defined instance variables in our show.html.erb view file!
 
 This is how the example show.html.erb file currently looks:
 ```html.erb
