@@ -60,7 +60,7 @@ So instead of creating a separate route for each show page, we can add a variabl
 
 We do this by coming up with a descriptive name for the variable. In this case, each todo is numbered 1-7 and so on. We can call these numbers ids. Each todo has an id which we can use to identify it. So if we enter **/todos/show/1** in the URL, we want to see the show page for the todo with an id of 1. If we enter **/todo/show/2** in the URL, we want to see the show page for the todo with an id of 2.
 
-Adding the dynmaic route segment to our show page route in our routes.rb file looks like this:
+Adding the dynamic route segment to our show page route in our routes.rb file looks like this:
 ```ruby
 get 'todo/show/:id', to: 'todo#show'
 ```
@@ -69,7 +69,7 @@ If you did the Ruby tutorial homework, you'll remember that the colon `:` is use
 
 >Give your students a moment to update their route to make it dynamic.
 
-Now go to your live Rails application and add **/todo/show/1** to the end of your URL. Then try changing it to **/todo/show/1000**. Both of those work, even though you didn't create those routes explicitly. But they still render the same page. let's add some HTML and Ruby to our show.html.erb file to make what's happening more obvious.
+Now go to your live Rails application and add **/todo/show/1** to the end of your URL. Then try changing it to **/todo/show/1000**. Both of those work, even though you didn't create those routes explicitly. But they still render the same page. Let's add some HTML and Ruby to our show.html.erb file to make what's happening more obvious.
 
 Add the following code to the top of your show.html.erb file:
 ```html.erb
