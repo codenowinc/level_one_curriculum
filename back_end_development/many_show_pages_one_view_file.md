@@ -45,7 +45,7 @@ get 'todo/show', to: 'todo#show'
 
 to this:
 ```ruby
-get 'todo/show', to: 'todo#show/1'
+get 'todo/show/1', to: 'todo#show'
 ```
 
 We see that going to **/todo/show/1** works!
