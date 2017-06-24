@@ -53,7 +53,7 @@ If you want to find a Todo object with a particular id, let’s say and id of 1,
 ## Move the process to the Todo controller show aciton
 You can use the same process to find a specific List object in your database from your show action in the Todo controller. Navigate to the show action in your Todo controller. Enter the following code before your if statement:
 ```ruby
-@todo = Todo.find_by_id(params[‘id’]
+@todo = Todo.find_by_id(params['id']
 ```
 
 What this code does is it searches the database for the Todo object with the id that matches the number the user entered at the end of the route in the URL.
