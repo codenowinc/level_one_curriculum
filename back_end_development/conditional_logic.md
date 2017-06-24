@@ -48,21 +48,21 @@ def show
 end
 ```
 
-We have to write all of our pseudocode in comments because plain english will not compile in a Ruby file, and will cause an error.
+We have to write all of our pseudocode in comments because plain English will not compile in a Ruby file, and will cause an error.
 
-Now that we have planned what we want to happen, lets write the code to make it real!
+Now that we have planned what we want to happen, let's write the code to make it real!
 
 ## If Statements
 One of the most powerful features present in most programming languages is the ability to change the flow of the program as certain conditions change. The simplest form of flow control and logic in Ruby is called an "if statement".
 
-These 'if' statements check whether a condition is true or not. In Ruby they are created by writing the `if` keyword, followed by a condition and then the `end` keyword to end the statement. A basic if statement should look something like the following:
+These "if statements" check whether a condition is true or not. In Ruby they are created by writing the `if` keyword, followed by a condition and then the `end` keyword to end the statement. A basic if statement should look something like the following:
 ```ruby
 if condition
   # Code to execute if 'condition' is true
 end
 ```
 
-From here the obvious question is: "How do we formulate a condition?". Well firstly, it's important to note that any expression that evaluates to a 'true' or 'false' value can be in the place of the condition. So the following would always output "Hello" as 'some_variable' will, in this case, always evaluate to true:
+From here the obvious question is: "How do we formulate a condition?" Well firstly, it's important to note that any expression that evaluates to a 'true' or 'false' value can be in the place of the condition. So the following would always output "Hello" as 'test_variable' will, in this case, always evaluate to true:
 ```ruby
 test_variable = true
 
@@ -81,7 +81,7 @@ end
   * **`>=`** - Is greater than or equal to
   * **`<=`** - Is less than or equal to
 
-Let's put conditional logic and operators to the test by writing our first if statement. Navigate to yhe show action of your Todo controller.
+Let's put conditional logic and operators to the test by writing our first if statement. Navigate to the show action of your Todo controller.
 
 >Give your students a moment to navigate to the right file.
 
@@ -125,7 +125,7 @@ end
 Set the value of `todo_id` to 2 and then return to your live app and navigate to **/todo/show/2**. You should now see the show page for your second todo! But what happens when you go to **/todo/show/1** now? It still displays the show page for the second todo. This is because our `todo_id` variable still has a value of 2 in the show action. We need the `todo_id` variable to get it's value from the number that is typed into the end of the URL, instead of setting it manually. If the user types **/todo/show/1** then `todo_id` should equal 1. If someone types **/todo/show/2** then `todo_id` should equal 2 and so on.
 
 ## The Params Hash
-Luckily, Rails stores the information typed in to the URL in a handy place called the Params Hash. You should have learned about hashes in your homeowork. The name of the hash is params, and the name of the information is whatever we named the dynamic route segment in our routes file. In this case, we named our dynamic route segment `:id` as seen in our route: `get 'todo/show/:id', to: 'todo#show'`. So to access the dynamic route segment in the show action of our Todo controller, and set it as the valie for our `todo_id` variable, we use the following code:
+Luckily, Rails stores the information typed in to the URL in a handy place called the Params Hash. You should have learned about hashes in your homeowork. The name of the hash is params, and the name of the information is whatever we named the dynamic route segment in our routes file. In this case, we named our dynamic route segment `:id` as seen in our route: `get 'todo/show/:id', to: 'todo#show'`. So to access the dynamic route segment in the show action of our Todo controller, and set it as the value for our `todo_id` variable, we use the following code:
 ```ruby
 def show
   todo_id = params[:id]
