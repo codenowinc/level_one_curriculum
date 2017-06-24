@@ -74,7 +74,7 @@ Now return to your live app, and refresh the browser. You should see your todo l
 
 
 ## Add the CSS
-Now that we have our index page HTML in our Rails App, let's drop in our CSS. Rails makes adding CSS to our application easy on us by giving us one place to put all of our styles for the whole application. And better yet, everything is already linked.
+Now that we have our index page HTML in our Rails App, let's drop in our CSS. Rails makes adding CSS to our application easy by giving us one place to put all of our styles for the whole application. And better yet, everything is already linked.
 
 In your file tree, navigate to the ***app/assets/stylesheets*** directory and open application.css. You'll see some commented out text in the file, do not get rid of it.
 

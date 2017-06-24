@@ -1,12 +1,12 @@
 # Put Your Front End In Rails - Part One
 Now that we have gone over the **RCAV** flow, let's put it into practice. Our goal is to get our index.html view from weekend one to run in our Rails application. All we need to do is follow the **RCAV** flow!
 
-Before we start, let's start our servers and run our Rails applications, so we can see our changes happen as we make them. Click the "Run project" button in the menu bar. A new window will open in your terminal, at the top, you a link will appear. Click the link and select "Open". You should have a new tab open that looks like the image below.
+Before we start, let's start our servers and run our Rails applications, so we can see our changes happen as we make them. Click the "Run project" button in the menu bar. A new window will open in your terminal, at the top, a link will appear. Click the link and select "Open". You should have a new tab open that looks like the image below.
 
 ![New Rails Application](/images/put_your_front_end_in_rails_part_one/01.png "New Rails Application")
 
 ## Step One - Route
-Navigate to ***cofig/routes.rb***. In your routes file, you will see a wall of grayed out text. This is helpful information Rails has provided developers about how to use the routes file. For now, we don't need to worry about this information. We can delete it. Remove all of the lines that start with a `#` between the `Rails.application.routes.draw do` and `end`.
+Navigate to ***config/routes.rb***. In your routes file, you will see a wall of grayed out text. This is helpful information Rails has provided developers about how to use the routes file. For now, we don't need to worry about this information. We can delete it. Remove all of the lines that start with a `#` between the `Rails.application.routes.draw do` and `end`.
 
 >Give your students a moment to clear the comments out of their routes file.
 
@@ -30,7 +30,7 @@ get 'todo/index', to: 'todo#index'
 ```
 
 Here is what this route is telling our Rails application to do:
-When the user adds /todo/index to the URL, direct the application to a controller named Todo, and an action named index within the Todo controller. Process the code in the index action, and got to a directory named views. With the views directory, find a directory named after the controller, in this case todo. Within the todo directory, find an html.erb file named after the action, in this case, index. Display the index.html.erb file to the user in the browser.
+When the user adds **/todo/index** to the URL, direct the application to a controller named Todo and an action named index within the Todo controller. Process the code in the index action, and get to a directory named views. With the views directory, find a directory named after the controller, in this case todo. Within the todo directory, find an html.erb file named after the action, in this case, index. Display the index.html.erb file to the user in the browser.
 
 Now return to your live app, and refresh the browser. You should see an error screen like the one below.
 
@@ -43,7 +43,7 @@ Based on the error screen above, we know the next step is to create the Todo con
 
 >Give your students a moment to navigate to the controllers directory in their file tree.
 
-In this directory, we are going to create a controller called **todo_controller.rb**. Controller files follow a naming convention called snake case, meaning all words in the title are lower case and separated by a underscore. Right click the ***controllers*** directory and select "New File".
+In this directory, we are going to create a controller called **todo_controller.rb**. Controller files follow a naming convention called snake case, meaning all words in the title are lower case and separated by an underscore. Right click the ***controllers*** directory and select "New File".
 
 >Give your students a moment to create their new todo_contrller.rb file. Make sure they have saved it in the correct repository.
 

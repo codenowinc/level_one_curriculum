@@ -10,7 +10,7 @@ We can set up the database through our command line. The first step is creating 
 ## Generate Your First Model
 As we know, Rails gives us many tools. One of these tools is a set of generators that developers can use to have Rails automatically set up files and directories for them. One of these generators is a Model generator. We'll use the following command to set up the Todo model:
 ```shell
-$ rails generate model Todo description:string, pomodoro_estimate:integer, complete:boolean
+$ rails generate model Todo description:string pomodoro_estimate:integer complete:boolean
 ```
 
 After you run the command, you’ll see that rails generated a couple of different files for us. The migration file, and the model file.
