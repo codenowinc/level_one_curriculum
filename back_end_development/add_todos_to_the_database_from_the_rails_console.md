@@ -45,7 +45,7 @@ Now let's see how many Todos we have saved in the database:
 > Todo.all
 ```
 
-If you want to find a Todo object with a particular id, let’s say and id of 1, use the following command:
+If you want to find a Todo object with a particular id, let’s say an id of 1, use the following command:
 ```shell
 > Todo.find_by_id(1)
 ```
@@ -53,14 +53,14 @@ If you want to find a Todo object with a particular id, let’s say and id of 1,
 ## Move the process to the Todo controller show aciton
 You can use the same process to find a specific List object in your database from your show action in the Todo controller. Navigate to the show action in your Todo controller. Enter the following code before your if statement:
 ```ruby
-@todo = Todo.find_by_id(params[‘id’]
+@todo = Todo.find_by_id(params[:id])
 ```
 
-What this code does is it searches the database for the Todo object with the id that matches the number the user entered at the end of the route in the URL.
+This will search the `todos` database table for a row with an id that matches the number the user entered at the end of the route in the URL.
 
-Now that you have the `@todo` instance variable open up the show.html.erb file and replace all of the places you have `@todo_description` and `@todo_pomodorod_estimate` with `@todo.description` and `@todo.pomodoro_estimate`. What’s happening here is we no longer need to store the instance variables with the Todo descriptions and Pomodoro estimates because we are pulling the info directly from the database.
+Now that you have the `@todo` instance variable, open up the show.html.erb file and replace all of the places you have `@todo_description` and `@todo_pomodoro_estimate` with `@todo.description` and `@todo.pomodoro_estimate`. What’s happening here is we no longer need to store the instance variables with the Todo descriptions and Pomodoro estimates because we are pulling the info directly from the database.
 
-Now return to your live applicaiton and go to the URL ending in ***/todo/show/1***. Everything should work the same.
+Now return to your live application and go to the URL ending in ***/todo/show/1***. Everything should work the same.
 
 Now go ahead and get rid of all of your conditional statements in the show action and see what happens when you reload the page! Your code should now look something like the block below:
 ```ruby
