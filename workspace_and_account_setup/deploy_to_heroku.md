@@ -42,5 +42,8 @@ Enter the following command into the command line:
 ```shell
 $ git push heroku master
 ```
-
+Now that your code is added to heroku, lets set up your heroku data base with the todo table.
+```shell
+$ heroku run rake db:migrate
+```
 After the command finishes running (it may take a few moments) open a new browser tab and enter yourfirstname-todo-app.herokuapp.com in the URL bar to see your application live on the web! Now have the person sitting next to you pull it up on their computer!
