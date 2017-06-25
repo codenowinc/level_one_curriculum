@@ -36,6 +36,7 @@
   * [Deploy to Heroku](/workspace_and_account_setup/deploy_to_heroku.md "Deploy to Heroku")
 
 **15:00 - 15:30 - P10**
+  * [Pull Request Activity](/the_command_line_git_and_github/pull_request_activity.md "Pull Request Activity")
   * Overflow and Demonstrations
 
 **15:30 - 16:00 - Clean Up & Wrap Up**

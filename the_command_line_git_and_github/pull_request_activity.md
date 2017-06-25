@@ -75,6 +75,6 @@ Click "Create pull request". You will be taken to a page titled "Open a pull req
 
 ![Changes](/images/pull_request_activity/09.png "Changes")
 
-Go ahead and click "Create pull request". GitHub will check if there are any conflicts between your code and the code that you are trying merge your code into. After you created your request, the owner of the orignal repository will have to approve it before your code gets merged in.
+Go ahead and click "Create pull request". GitHub will check if there are any conflicts between your code and the code that you are trying merge your code into. After you created your request, the owner of the original repository will have to approve it before your code gets merged in.
 
 We'll go through everyone's pull requests together as a class and merge them in to the original code base.

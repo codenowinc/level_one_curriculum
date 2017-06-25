@@ -44,6 +44,7 @@ In this README, you will find a table of contents linking to a series of guides 
   * **Git and GitHub**
     * [Initialize Your First Directory](/the_command_line_git_and_github/initialize_your_first_directory.md "Initialize Your First Directory")
     * [Save and Push Your First Commit](/the_command_line_git_and_github/save_and_push_your_first_commit.md "Save and Push Your First Commit")
+    * [Pull Request Activity](/the_command_line_git_and_github/pull_request_activity.md "Pull Request Activity")
 
 ### Workspace and Account Setup
   * **Weekend One**
