@@ -1,6 +1,6 @@
 # Scope Down and Hone In
 
-### ***[Keynote](https://www.dropbox.com/s/j1u6i9fugh9dyoj/04%20-%20Keynote%20-%20Scope%20Down%20and%20Hone%20In.key?dl=0 "Scope Down and Hone In - Keynote") | [PowerPoint](https://www.dropbox.com/s/15y7287fxrinsj8/04%20-%20PowerPoint%20-%20Scope%20Down%20and%20Hone%20In.pptx?dl=0 "Scope Down and Hone In - PowePoint")***
+### ***[Keynote](https://www.dropbox.com/s/ojgk9ziqwvxj762/04%20-%20Keynote%20-%20Scope%20Down%20and%20Hone%20In.key?dl=0 "Scope Down and Hone In - Keynote") | [PowerPoint](https://www.dropbox.com/s/yngi41wo7pels9q/04%20-%20PowerPoint%20-%20Scope%20Down%20and%20Hone%20In.pptx?dl=0 "Scope Down and Hone In - PowePoint")***
 
 Now it's time to drill a little deeper. We'll take the most important feature of our PomoDoro app, tracking assignments, and list out all the functionality we'll need to make the feature work.
 

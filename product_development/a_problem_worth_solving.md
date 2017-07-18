@@ -1,6 +1,6 @@
 # A Problem Worth Solving
 
-### ***[Keynote](https://www.dropbox.com/s/gf6fj53p8qrc2da/02%20-%20Keynote%20-%20A%20Problem%20Worth%20Solving.key?dl=0 "A Problem Worth Solving - Keynote") | [PowerPoint](https://www.dropbox.com/s/q19kqniugz7eehy/02%20-%20PowerPoint%20-%20A%20Problem%20Worth%20Solving.pptx?dl=0 "A Problem Worth Solving - PowePoint")***
+### ***[Keynote](https://www.dropbox.com/s/3bkbt1nxefwfti7/02%20-%20Keynote%20-%20A%20Problem%20Worth%20Solving.key?dl=0 "A Problem Worth Solving - Keynote") | [PowerPoint](https://www.dropbox.com/s/tm6zd5d3rmm9jds/02%20-%20PowerPoint%20-%20A%20Problem%20Worth%20Solving.pptx?dl=0 "A Problem Worth Solving - PowePoint")***
 
 ### Christina's Problem
   Meet Christina. She's a junior at KIPP NYC College Prep. She's got a full schedule, plays on the soccer team, and is the treasurer of her school’s National Honors Society chapter.

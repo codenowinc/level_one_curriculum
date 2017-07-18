@@ -1,6 +1,6 @@
 # Sketch Your Vision
 
-### ***[Keynote](https://www.dropbox.com/s/n09fpr1h35jfdgp/05-%20Keynote%20-%20Sketch%20Your%20Vision.key?dl=0 "Sketch Your Vision - Keynote") | [PowerPoint](https://www.dropbox.com/s/yj1mw6d6z4louy4/05-%20PowerPoint%20-%20Sketch%20Your%20Vision.pptx?dl=0 "Sketch Your Vision - PowePoint")***
+### ***[Keynote](https://www.dropbox.com/s/q41wz2c0cb0zcrw/05-%20Keynote%20-%20Sketch%20Your%20Vision.key?dl=0 "Sketch Your Vision - Keynote") | [PowerPoint](https://www.dropbox.com/s/xxjp76pulvax1vg/05-%20PowerPoint%20-%20Sketch%20Your%20Vision.pptx?dl=0 "Sketch Your Vision - PowePoint")***
 
 We've defined the problem we're trying to solve and who we're solving it for. We've mapped out the overarching areas of the solution and picked the most impactful place to start - tracking assignments. Finally, we listed out the functionality users will need to successfully track assignments using our app.
 
