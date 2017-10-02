@@ -32,7 +32,7 @@ Now we want to display a form that allows the user to edit the todo in the datab
 
   <form action="#">
     <input class="text-input" name="description" type="text" value="<%= @todo.description %>">
-    <input class="text-input" name="pomodoro-estimate" type="number" value="<%= @todo.pomodoro_estimate %>">
+    <input class="text-input" name="pomodoro_estimate" type="number" value="<%= @todo.pomodoro_estimate %>">
     <input class="button add-new-todo-button" type="submit" value="Edit todo">
     <a href="/todo/index" class="simple-link">Go back...</a>
   </form>
