@@ -64,7 +64,7 @@ Finally, we create a view file named new.html.erb in the ***app/views/todo*** di
 
 <form action="#">
   <input class="text-input" id="new-todo-description" name="description" type="text" placeholder="Add a new todo...">
-  <input class="text-input" id="new-pomodoro-estimate" name="pomodoro-estimate" type="number" placeholder="Pomodoro estimate...">
+  <input class="text-input" id="new-pomodoro-estimate" name="pomodoro_estimate" type="number" placeholder="Pomodoro estimate...">
   <input class="button" id="add-new-todo-button" type="submit" value="Add todo">
 </form>
 ```
