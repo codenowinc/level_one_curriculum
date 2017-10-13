@@ -23,20 +23,20 @@ Note how posting a photo can involve taking a new photo or video from within the
 
 Now it's time to wrap our heads around where we're going to start building. We've decided that the recording an assignment feature is the most impactful place to start building our app. Let's list out the affordances this feature is going to provide the user.
 
-Before we can think about the different parts of this feature, we have to think about the different pieces that make up a todo.
+Before we can think about the different parts of this feature, we have to think about the different pieces that make up a to-do.
 
-First, we have to determine what pieces of information make up an to-do.
+First, we have to determine what pieces of information make up a to-do.
 
-### Anatomy of a todo
+### Anatomy of a to-do
   * a description of what needs to get done
   * an estimate of the number of Pomodoros it will take to complete
   * a status indicating if it has been completed or not
 
-A to-do has a description of what needs to get done, an estimate  of the number of Pomodoros it will take to complete the task, and a status indicating if it has been completed or not.
+A to-do has a description of what needs to get done, an estimate of the number of Pomodoros it will take to complete the task, and a status indicating if it has been completed or not.
 
 ### Record a to-do - PomoDoro
   * write the description of what needs to get done
-  * estimate the number of Pomodoros to complete the todo (optional)
+  * estimate the number of Pomodoros to complete the to-do (optional)
   * view the recorded to-do
 
 These are the affordances the user needs to record a new assignment. Note that we haven't addressed the completion status of an assignment here. That’s because marking the to-do as complete happens outside of the to-do creation flow.
