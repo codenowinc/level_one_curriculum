@@ -26,6 +26,9 @@ After you authenticate Heroku in Cloud9, they should see a message in the termin
 ## Create your first Heroku application from the command line
 Now that your Heroku account is connected to your Cloud9 workspace let's create your first Heroku application.
 
+_You must be in the root directory of your application for this next command to
+work properly._ The root directory should be `~/workspace`.
+
 Enter the following command into the command line replacing yourfirstname with your first name:
 ```shell
 $ heroku create yourfirstname-todo-app
