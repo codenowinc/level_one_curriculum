@@ -32,7 +32,7 @@ Ta-da! The page you are now looking at is the compiled version of the HTML file 
 ## A Few More Files You'll Need
 Now that we understand how to create files, let's create the files we're going to need to create our static HTML & CSS mockups of the sketches you drew earlier.
 
-We've already created the first HTML file we'll need, index.html. The second HTML file we'll need is called called show.html. Using the commands you just learned, can you create show.html?
+We've already created the first HTML file we'll need, index.html. The second HTML file we'll need is called show.html. Using the commands you just learned, can you create show.html?
 
 >Give your students a minute to create this HTML file using the `touch` command. Help them get the answer by questioning their thought process, if they are going off track.
 
