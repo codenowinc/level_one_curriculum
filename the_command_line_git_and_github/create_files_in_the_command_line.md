@@ -1,5 +1,5 @@
 # Create Files In the Command Line
-Now that we've navigated to our workspace directory, we can learn to create new directories and files. To create a new directory in the command line we use the following command:
+Now that we've navigated to our workspace directory, we can learn to create new directories and files. To create a new file in the command line we use the following command:
 ```shell
 $ touch
 ```

@@ -71,7 +71,7 @@ in your Todo controller, add the action below:
 def update
   t = Todo.find_by_id(params['id'])
   t.description = params['description']
-  t.pomodoro_estimate = params['pomodoro-estimate']
+  t.pomodoro_estimate = params['pomodoro_estimate']
   t.save
   redirect_to "/todo/show/#{t.id}"
 end
@@ -90,7 +90,7 @@ t.description = params['description']
 We're taking the description of the todo and assigning the new content from the form to the todo.
 
 ```ruby
-t.pomodoro_estimate = params['pomodoro-estimate']
+t.pomodoro_estimate = params['pomodoro_estimate']
 
 ```
 We're taking the pomodoro_estimate of the todo and assigning the new value from the form to the todo.
@@ -115,7 +115,19 @@ After the Todo object has been updated, the action redirects to the todo's show 
 Test it out to see if it works!
 
 ## Destroy
-Finally, we want to be able to destroy todos that we don't want. The destroy action is much simpler than the others. We want to be able to click the destroy `<a></a>` link on the todo's show page. We still need the **RCA** flow.
+Finally, we want to be able to destroy todos that we don't want. The destroy action is much simpler than the others. We want to be able to click the destroy `<a></a>` link on the todo's show page. 
+
+In the show.html.erb file we want to replace the following line:
+```html.erb
+<a href="#" class="button  delete-todo-button">Delete</a>
+```
+
+with this line:
+```html.erb
+<a href="/todo/destroy/<%= @todo.id %>" class="button delete-todo-button">Delete</a>
+```
+
+We still need the **RCA** flow.
 
 ### Route
 We want to create a route for the destroy action. When Rails goes to this route, it will trigger the destroy action and then redirects to the index page again, since the show page for the deleted todo no longer exists.

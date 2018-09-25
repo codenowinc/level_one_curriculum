@@ -12,7 +12,7 @@ Now that you have a Heroku account let's connect your Cloud9 workspace to it. Cl
 
 Enter the following command into the command line.
 ```shell
-$ heroku
+$ heroku auth:login
 ```
 
 Heroku will prompt you to enter the email and password associated with the account you just created. Make sure to enter them both carefully.

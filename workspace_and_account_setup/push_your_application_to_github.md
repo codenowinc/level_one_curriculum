@@ -24,7 +24,11 @@ Finally, you want to back your code up to the cloud, so you don't lose it, even 
 
 Go to that tab and click the "Copy to clipboard" button on the right side of the page, under the **"...or push to an existing repository from the command line"** section.
 
-![Push to an existing repository](/images/push_your_application_to_github/01.png "Push to an existing repository")
+```Shell
+git remote add origin git@github.com:PUT_YOUR_LOGIN_HERE/YOUR_REPOSITORY_NAME.git
+git push -u origin master
+```
+
 
 >Give your students a moment to do this. If someone accidentally closed the tab/window, instruct them to open a new tab, log back in to their GitHub account, and click on the todo_app repository in the sidebar.
 

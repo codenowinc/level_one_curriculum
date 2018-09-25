@@ -18,7 +18,7 @@ The first thing we want to be able to do is to find our way around while we're i
   `cd` stands for change directory, and it is the command we'll be using to navigate from one folder to another when we're in the command line.
 
 #### `pwd`
-  Before we can use the cd command to change our position, we need to know where we are and where we have the option of going. To get a bearing on your location in the file tree, enter the following command:
+  Before we can use the `cd` command to change our position, we need to know where we are and where we have the option of going. To get a bearing on your location in the file tree, enter the following command:
   ```shell
   $ pwd
   ```
@@ -29,7 +29,7 @@ The first thing we want to be able to do is to find our way around while we're i
   /home/ubuntu
   ```
 
-  `pwd` stands for print working directory, and it will always return the path (or address) to the directory in which you are currently in. Based on what was returned just now, we are in a directory called Ubuntu, which is in a directory called home, which is in the root directory (or top most level folder) of the file tree.
+  `pwd` stands for print working directory, and it will always return the path (or address) to the directory in which you are currently in. Based on what was returned just now, we are in a directory called ubuntu, which is inside of another directory called home, which is in the root directory (or top most level folder) of the file tree.
 
 #### `ls`
   So now that we know where we are, we have to figure out where we can go. To see all the directories and files within the ubuntu directory that we're currently in, we use the following command:
@@ -46,17 +46,17 @@ The first thing we want to be able to do is to find our way around while we're i
   lib/  workspace/
   ```
 
-  It looks like within the Ubuntu directory, there are two directories named lib and workspace.
+  It looks like within the ubuntu directory, there are two directories named lib and workspace.
 
 #### `cd` Again...
-  Now that we know what our option are as far as where we can go, we can use the cd command followed by the name of the directory we want to change into.
+  Now that we know what our option are as far as where we can go, we can use the `cd` command followed by the name of the directory we want to change into.
 
   Enter the following command:
   ```shell
-  $cd workspace/
+  $ cd workspace/
   ```
 
-  >Give your students a few seconds to enter the cd workspace command
+  >Give your students a few seconds to enter the `cd` workspace command
 
   After we `cd` into the workspace directory, we can immediately see that the prompt before the `$` in our command line has changed.
 

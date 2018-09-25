@@ -60,6 +60,12 @@ This will search the `todos` database table for a row with an id that matches th
 
 Now that you have the `@todo` instance variable, open up the show.html.erb file and replace all of the places you have `@todo_description` and `@todo_pomodoro_estimate` with `@todo.description` and `@todo.pomodoro_estimate`. What’s happening here is we no longer need to store the instance variables with the Todo descriptions and Pomodoro estimates because we are pulling the info directly from the database.
 
+Now it should look like so:
+```ruby
+<h2><%= @todo.description %></h2>
+  <span class="pomodoro-estimate large-pomodoro-estimate"><%= @todo.pomodoro_estimate %> Pomodoros</span>
+```
+   
 Now return to your live application and go to the URL ending in ***/todo/show/1***. Everything should work the same.
 
 Now go ahead and get rid of all of your conditional statements in the show action and see what happens when you reload the page! Your code should now look something like the block below:
